@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-devanagari: var(--font-devanagari), serif;
+  --font-serif: var(--font-serif), serif;
+  --font-sans: var(--font-sans), sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: #09090b;
+    color: #e4e4e7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Refined dark scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #09090b;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.25);
+  }
+}
