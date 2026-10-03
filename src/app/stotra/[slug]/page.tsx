@@ -5,6 +5,8 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import StanzaViewer from '@/components/StanzaViewer';
 import { Stotra } from '@/types/stotra';
+import { Card } from '@/components/ui/Card';
+import { Badge } from '@/components/ui/Badge';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -32,37 +34,36 @@ export default async function StotraPage({ params }: PageProps) {
   }
 
   return (
-    <div className="min-h-screen bg-neutral-50 dark:bg-black text-neutral-900 dark:text-neutral-100 p-6 md:p-12">
+    <div className="min-h-screen text-neutral-100 p-6 md:p-12 relative">
       <main className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <div className="mb-8">
           <Link
             href="/"
-            className="inline-flex items-center text-sm font-medium text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors"
+            className="inline-flex items-center text-sm font-medium text-neutral-400 hover:text-amber-300 transition-colors gap-2"
           >
-            ← Back to all Stotras
+            <span>←</span> Back to all Stotras
           </Link>
         </div>
 
         {/* Stotra Header */}
-        <div className="bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800 rounded-2xl p-8 shadow-sm mb-10 text-center">
-          <div className="text-3xl md:text-4xl font-serif font-bold mb-3 text-neutral-900 dark:text-neutral-100">
+        <Card className="mb-10 text-center relative overflow-hidden p-8 md:p-12">
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-48 h-1 bg-gradient-to-r from-transparent via-amber-500 to-transparent" />
+          <div className="text-3xl md:text-5xl font-[family-name:var(--font-devanagari)] font-bold mb-4 text-neutral-100">
             {stotra.title_sanskrit}
           </div>
-          <h1 className="text-lg md:text-xl font-medium text-neutral-700 dark:text-neutral-300 mb-2">
+          <h1 className="text-lg md:text-xl font-[family-name:var(--font-serif)] text-amber-200/90 italic mb-4">
             {stotra.title_transliteration}
           </h1>
-          <div className="flex items-center justify-center gap-2 mb-4 text-sm text-neutral-500 dark:text-neutral-400">
-            <span>{stotra.title_english}</span>
+          <div className="flex flex-wrap items-center justify-center gap-3 mb-6 text-sm text-neutral-400">
+            <span className="text-neutral-200">{stotra.title_english}</span>
             <span>•</span>
-            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300">
-              {stotra.author}
-            </span>
+            <Badge variant="gold">{stotra.author}</Badge>
           </div>
-          <p className="text-neutral-600 dark:text-neutral-400 text-sm max-w-2xl mx-auto leading-relaxed">
-            {stotra.description}
+          <p className="text-neutral-300 text-sm md:text-base max-w-2xl mx-auto leading-relaxed font-[family-name:var(--font-serif)] italic">
+            &ldquo;{stotra.description}&rdquo;
           </p>
-        </div>
+        </Card>
 
         {/* Stanzas List */}
         <div className="space-y-8">

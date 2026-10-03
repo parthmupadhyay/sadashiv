@@ -2,6 +2,9 @@
 
 import React, { useState } from 'react';
 import { Stanza } from '@/types/stotra';
+import { Card } from '@/components/ui/Card';
+import { Badge } from '@/components/ui/Badge';
+import { LanguageToggle } from '@/components/ui/LanguageToggle';
 
 interface StanzaViewerProps {
   stanza: Stanza;
@@ -12,66 +15,50 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
   const [showBreakdown, setShowBreakdown] = useState(false);
 
   return (
-    <div className="bg-white dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800 rounded-2xl p-6 shadow-sm">
+    <Card className="relative overflow-hidden">
       {/* Header */}
-      <div className="flex items-center justify-between mb-4">
-        <span className="text-xs font-semibold uppercase tracking-wider text-neutral-400 dark:text-neutral-500">
+      <div className="flex items-center justify-between mb-6 pb-4 border-b border-neutral-800/80">
+        <Badge variant="gold">
           Stanza {stanza.stanza_number}
-        </span>
-        {/* Translation Language Toggle */}
-        <div className="inline-flex rounded-lg bg-neutral-100 dark:bg-neutral-800 p-1 text-xs">
-          <button
-            onClick={() => setActiveLang('english')}
-            className={`px-3 py-1 rounded-md font-medium transition-colors ${
-              activeLang === 'english'
-                ? 'bg-white dark:bg-neutral-700 text-neutral-900 dark:text-white shadow-sm'
-                : 'text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white'
-            }`}
-          >
-            English
-          </button>
-          <button
-            onClick={() => setActiveLang('hindi')}
-            className={`px-3 py-1 rounded-md font-medium transition-colors ${
-              activeLang === 'hindi'
-                ? 'bg-white dark:bg-neutral-700 text-neutral-900 dark:text-white shadow-sm'
-                : 'text-neutral-600 dark:text-neutral-400 hover:text-neutral-900 dark:hover:text-white'
-            }`}
-          >
-            हिंदी
-          </button>
-        </div>
+        </Badge>
+        <LanguageToggle activeLang={activeLang} onChange={setActiveLang} />
       </div>
 
       {/* Sanskrit Section */}
-      <div className="bg-neutral-50 dark:bg-neutral-950 border border-neutral-100 dark:border-neutral-800/60 rounded-xl p-6 mb-6 text-center">
-        <div className="text-2xl md:text-3xl font-serif text-neutral-900 dark:text-neutral-100 leading-loose whitespace-pre-line mb-3">
+      <div className="bg-neutral-950/60 border border-neutral-800/50 rounded-xl p-8 mb-6 text-center backdrop-blur-sm relative">
+        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-32 h-1 bg-gradient-to-r from-transparent via-amber-500/40 to-transparent" />
+        <div 
+          className="text-2xl md:text-3xl font-[family-name:var(--font-devanagari)] text-neutral-100 leading-[2.2] whitespace-pre-line mb-4 font-semibold tracking-wide"
+        >
           {stanza.sanskrit_text}
         </div>
-        <div className="text-sm md:text-base text-neutral-500 dark:text-neutral-400 italic whitespace-pre-line">
+        <div className="text-base md:text-lg font-[family-name:var(--font-serif)] text-amber-200/80 italic whitespace-pre-line">
           {stanza.transliteration}
         </div>
       </div>
 
       {/* Translation Section */}
-      <div className="mb-6">
-        <h4 className="text-xs font-semibold uppercase tracking-wider text-neutral-400 dark:text-neutral-500 mb-2">
-          Meaning ({activeLang === 'english' ? 'English' : 'Hindi'})
-        </h4>
-        <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed">
-          {stanza.translations[activeLang]}
+      <div className="mb-6 bg-neutral-950/30 border border-neutral-800/40 rounded-xl p-6 relative">
+        <span className="absolute -top-3 left-6 px-3 bg-neutral-900 text-xs font-semibold tracking-wider uppercase text-amber-400/80 border border-neutral-800 rounded-full">
+          Meaning ({activeLang === 'english' ? 'English' : 'हिंदी'})
+        </span>
+        <p className="text-neutral-300 font-[family-name:var(--font-serif)] text-lg leading-relaxed italic pt-1">
+          &ldquo;{stanza.translations[activeLang]}&rdquo;
         </p>
       </div>
 
       {/* Line-by-Line Breakdown Accordion */}
       {stanza.line_breakdown && stanza.line_breakdown.length > 0 && (
-        <div className="border-t border-neutral-100 dark:border-neutral-800 pt-4">
+        <div className="border-t border-neutral-800/80 pt-4">
           <button
             onClick={() => setShowBreakdown(!showBreakdown)}
-            className="flex items-center justify-between w-full text-left font-medium text-sm text-neutral-700 dark:text-neutral-300 hover:text-neutral-900 dark:hover:text-white transition-colors"
+            className="flex items-center justify-between w-full text-left font-medium text-sm text-neutral-300 hover:text-amber-300 transition-colors py-2 px-3 rounded-lg hover:bg-neutral-900/60"
           >
-            <span>Line-by-line Breakdown</span>
-            <span className="text-xs text-neutral-400">
+            <span className="flex items-center gap-2">
+              <span className="w-1.5 h-1.5 rounded-full bg-amber-500/60" />
+              Line-by-line Breakdown
+            </span>
+            <span className="text-xs text-neutral-500 bg-neutral-950 px-2.5 py-1 rounded-md border border-neutral-800">
               {showBreakdown ? 'Hide ▲' : 'Show ▼'}
             </span>
           </button>
@@ -81,15 +68,15 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
               {stanza.line_breakdown.map((line) => (
                 <div
                   key={line.line_number}
-                  className="p-3 bg-neutral-50 dark:bg-neutral-950/50 rounded-lg border border-neutral-100 dark:border-neutral-800/50 text-sm"
+                  className="p-4 bg-neutral-950/80 rounded-xl border border-neutral-800/80 text-sm backdrop-blur-sm"
                 >
-                  <div className="font-serif text-neutral-900 dark:text-neutral-100 mb-1">
+                  <div className="font-[family-name:var(--font-devanagari)] text-neutral-100 text-lg mb-1.5">
                     {line.sanskrit_line}
                   </div>
-                  <div className="text-xs italic text-neutral-500 dark:text-neutral-400 mb-2">
+                  <div className="text-xs font-[family-name:var(--font-serif)] text-amber-200/70 italic mb-2.5">
                     {line.transliteration_line}
                   </div>
-                  <div className="text-neutral-700 dark:text-neutral-300 text-xs">
+                  <div className="text-neutral-300 text-xs pl-3 border-l-2 border-amber-500/40 py-0.5">
                     {activeLang === 'english' ? line.meaning_english : line.meaning_hindi}
                   </div>
                 </div>
@@ -98,6 +85,6 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
           )}
         </div>
       )}
-    </div>
+    </Card>
   );
 }
