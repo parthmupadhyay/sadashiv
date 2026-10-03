@@ -32,7 +32,7 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
         >
           {stanza.sanskrit_text}
         </div>
-        <div className="text-base md:text-lg font-[family-name:var(--font-serif)] text-amber-200/80 italic whitespace-pre-line">
+        <div className="text-base sm:text-lg font-[family-name:var(--font-serif)] text-amber-200/80 italic whitespace-pre-line leading-relaxed tracking-wide mt-4 max-w-3xl mx-auto">
           {stanza.transliteration}
         </div>
       </div>
@@ -42,7 +42,7 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
         <span className="absolute -top-3 left-6 px-3 bg-neutral-900 text-xs font-semibold tracking-wider uppercase text-amber-400/80 border border-neutral-800 rounded-full">
           Meaning ({activeLang === 'english' ? 'English' : 'हिंदी'})
         </span>
-        <p className="text-neutral-300 font-[family-name:var(--font-serif)] text-lg leading-relaxed italic pt-1">
+        <p className="text-base sm:text-lg text-zinc-100 font-[family-name:var(--font-serif)] leading-relaxed italic pt-1">
           &ldquo;{stanza.translations[activeLang]}&rdquo;
         </p>
       </div>
@@ -64,19 +64,19 @@ export default function StanzaViewer({ stanza }: StanzaViewerProps) {
           </button>
 
           {showBreakdown && (
-            <div className="mt-4 space-y-3">
+            <div className="mt-4 space-y-4">
               {stanza.line_breakdown.map((line) => (
                 <div
                   key={line.line_number}
-                  className="p-4 bg-neutral-950/80 rounded-xl border border-neutral-800/80 text-sm backdrop-blur-sm"
+                  className="p-5 sm:p-6 bg-zinc-950/60 rounded-xl border border-white/10 text-sm backdrop-blur-sm"
                 >
-                  <div className="font-[family-name:var(--font-devanagari)] text-neutral-100 text-lg mb-1.5">
+                  <div className="text-xl sm:text-2xl font-[family-name:var(--font-serif)] font-[family-name:var(--font-devanagari)] text-amber-100 leading-relaxed">
                     {line.sanskrit_line}
                   </div>
-                  <div className="text-xs font-[family-name:var(--font-serif)] text-amber-200/70 italic mb-2.5">
+                  <div className="text-sm sm:text-base font-[family-name:var(--font-serif)] italic text-amber-300/80 tracking-wide mt-1">
                     {line.transliteration_line}
                   </div>
-                  <div className="text-neutral-300 text-xs pl-3 border-l-2 border-amber-500/40 py-0.5">
+                  <div className="text-sm sm:text-base text-zinc-200 leading-relaxed mt-2 pl-3 border-l-2 border-amber-500/50 bg-white/[0.02] p-2.5 rounded-r-lg">
                     {activeLang === 'english' ? line.meaning_english : line.meaning_hindi}
                   </div>
                 </div>
