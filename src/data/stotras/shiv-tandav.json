@@ -1,0 +1,596 @@
+{
+  "id": "shiv-tandav",
+  "title_sanskrit": "शिवताण्डवस्तोत्रम्",
+  "title_transliteration": "Shiva Tandava Stotram",
+  "title_english": "Hymn of Shiva's Cosmic Dance",
+  "author": "Ravana",
+  "description": "A powerful hymn composed by Ravana praising Lord Shiva's divine power, cosmic dance, and transcendent beauty.",
+  "total_stanzas": 15,
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥",
+      "transliteration": "jaṭā-ṭavī-galaj-jala-pravāha-pāvita-sthale\ngale'valambya lambitāṁ bhujaṅga-tuṅga-mālikām |\nḍamaḍ-ḍamaḍ-ḍamaḍ-damannināda-vaḍ-ḍamarvayaṁ\ncakāra caṇḍa-tāṇḍavaṁ tanotu naḥ śivaḥ śivam ||1||",
+      "translations": {
+        "english": "May Lord Shiva, whose neck is sanctified by the waters cascading from the forest of His matted hair, who wears a lofty garland of serpents around His throat, and who performs the fierce Tandava dance to the resonating beats of His Damaru, shower eternal auspiciousness upon us.",
+        "hindi": "जिनकी जटा रूपी वन से बहती हुई गंगा की पवित्र धाराएं कंठ को पावन करती हैं, और जिनके गले में विशाल सर्पों की मालाएं लटक रही हैं, वे भगवान शिव डमरू की डम-डम ध्वनि के साथ प्रचंड तांडव नृत्य करते हुए हमारा कल्याण करें।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "जटाटवीगलज्जलप्रवाहपावितस्थले",
+          "transliteration_line": "jaṭā-ṭavī-galaj-jala-pravāha-pāvita-sthale",
+          "meaning_english": "Whose neck is sanctified by cascading waters from the forest of matted locks",
+          "meaning_hindi": "जटा रूपी वन से गिरती गंगा की पवित्र धाराओं से पावन स्थल पर"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।",
+          "transliteration_line": "gale'valambya lambitāṁ bhujaṅga-tuṅga-mālikām",
+          "meaning_english": "Wearing a lofty garland of serpents hanging around His throat",
+          "meaning_hindi": "गले में लटकती हुई विशाल सर्पों की लंबी माला धारण किए हुए"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "डमड्डमड्डमड्डमन्निनादवड्डमर्वयं",
+          "transliteration_line": "ḍamaḍ-ḍamaḍ-ḍamaḍ-damannināda-vaḍ-ḍamarvayaṁ",
+          "meaning_english": "Accompanied by the resounding roll of the Damaru drum",
+          "meaning_hindi": "डमरू की डम-डम ध्वनि चारों ओर गुंजायमान करते हुए"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "चकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥",
+          "transliteration_line": "cakāra caṇḍa-tāṇḍavaṁ tanotu naḥ śivaḥ śivam",
+          "meaning_english": "He performs the fierce Tandava; may Lord Shiva bless us with auspiciousness",
+          "meaning_hindi": "जिन्होंने प्रचंड तांडव रचाया, वे भगवान शिव हमारा कल्याण करें"
+        }
+      ]
+    },
+    {
+      "stanza_number": 2,
+      "sanskrit_text": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी-\n-विलोलवीचिवल्लरीविराजमानमूर्धनि।\nधधद्धधद्धधज्ज्वलल्ललाटपट्टपावके\nकिशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम॥२॥",
+      "transliteration": "jaṭā-kaṭāha-sambhrama-bhraman-nilimpa-nirjharī-\n-vilola-vīci-vallarī-virājamāna-mūrdhani |\ndhadhad-dhadhad-dhadhaj-jvalal-lalāṭa-paṭṭa-pāvake\nkiśora-candra-śekhare ratiḥ pratikṣaṇaṁ mama ||2||",
+      "translations": {
+        "english": "May my mind constantly rejoice in Lord Shiva, upon whose head surges the celestial Ganga in whirling waves, upon whose forehead blazes the roaring cosmic fire, and whose crest is adorned by the young crescent moon.",
+        "hindi": "जिनकी जटाओं के भँवर में स्वर्ग की नदी गंगा की चंचल लहरें विलास कर रही हैं, जिनके मस्तक पर अग्नि धधक-धधक कर जल रही है, और जिनके शीश पर बालचंद्रमा सुशोभित हैं, उनमें मेरा मन प्रतिक्षण लीन रहे।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी-",
+          "transliteration_line": "jaṭā-kaṭāha-sambhrama-bhraman-nilimpa-nirjharī-",
+          "meaning_english": "The heavenly river swirling within the cauldron of His matted hair",
+          "meaning_hindi": "जटाओं के गहन पात्र में तीव्र गति से घूमती हुई देवनदी गंगा"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-विलोलवीचिवल्लरीविराजमानमूर्धनि।",
+          "transliteration_line": "-vilola-vīci-vallarī-virājamāna-mūrdhani",
+          "meaning_english": "Whose head shines adorned with ripples of rolling waves",
+          "meaning_hindi": "जिनके मस्तक पर चंचल तरंगों की लताएं सुशोभित हो रही हैं"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "धधद्धधद्धधज्ज्वलल्ललाटपट्टपावके",
+          "transliteration_line": "dhadhad-dhadhad-dhadhaj-jvalal-lalāṭa-paṭṭa-pāvake",
+          "meaning_english": "With the sacrificial fire blazing fiercely upon His forehead",
+          "meaning_hindi": "जिनके ललाट पटल पर प्रज्वलित अग्नि धक-धक कर जल रही है"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "किशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम॥२॥",
+          "transliteration_line": "kiśora-candra-śekhare ratiḥ pratikṣaṇaṁ mama",
+          "meaning_english": "May my deep love ever remain devoted to Him who wears the crescent moon",
+          "meaning_hindi": "बाल चन्द्रमा को मुकुट रूप में धारण करने वाले शिव में मेरी प्रीति सदा बनी रहे"
+        }
+      ]
+    },
+    {
+      "stanza_number": 3,
+      "sanskrit_text": "धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर-\n-स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे।\nकृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि\nक्वचिद्दिगम्बरे मनो विनोदमेतु वस्तुनि॥३॥",
+      "transliteration": "dharā-dharendra-nandinī-vilāsa-bandhu-bandhura-\n-sphurad-dig-anta-santati-pramodamāna-mānase |\nkṛpā-kaṭākṣa-dhoraṇī-niruddha-durdharāpadi\nkvacid-dig-ambare mano vinodam-etu vastuni ||3||",
+      "translations": {
+        "english": "May my heart find divine joy in Lord Digambara, whose mind rejoices in the living universe alongside Parvati, whose unbroken glance of compassion alleviates all insurmountable calamities, and who wears the infinite directions as His garments.",
+        "hindi": "जो पर्वतराज हिमालय की पुत्री पार्वती के विलास के साथी हैं, जिनके मन में संपूर्ण दिशाएं आनंदित हो रही हैं, और जिनकी कृपा दृष्टि मात्र से घोर विपत्तियां भी दूर हो जाती हैं, ऐसे दिगम्बर शिव में मेरा मन आनंद पाए।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर-",
+          "transliteration_line": "dharā-dharendra-nandinī-vilāsa-bandhu-bandhura-",
+          "meaning_english": "The charming companion of Parvati, the daughter of the mountain king",
+          "meaning_hindi": "हिमालय-पुत्री पार्वती के दिव्य विलास के रसिक साथी"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे।",
+          "transliteration_line": "-sphurad-dig-anta-santati-pramodamāna-mānase",
+          "meaning_english": "In whose mind the entire expanse of all directions rejoices",
+          "meaning_hindi": "जिनके अंतःकरण में समस्त दिशाओं की सृष्टि हर्षित होती है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "कृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि",
+          "transliteration_line": "kṛpā-kaṭākṣa-dhoraṇī-niruddha-durdharāpadi",
+          "meaning_english": "Whose continuous benevolent glance restrains unbearable distress",
+          "meaning_hindi": "जिनकी कृपामयी तिरछी दृष्टि असाध्य विपदाओं का शमन करती है"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "क्वचिद्दिगम्बरे मनो विनोदमेतु वस्तुनि॥३॥",
+          "transliteration_line": "kvacid-dig-ambare mano vinodam-etu vastuni",
+          "meaning_english": "May my mind take delight in that Supreme Reality clad in space",
+          "meaning_hindi": "दिशाओं को वस्त्र रूप में धारण करने वाले उस परमतत्व में मेरा मन रमे"
+        }
+      ]
+    },
+    {
+      "stanza_number": 4,
+      "sanskrit_text": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा-\n-कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे।\nमदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे\nमनो विनोदमद्भुतं बिभर्तु भूतभर्तरि॥४॥",
+      "transliteration": "jaṭā-bhujaṅga-piṅgala-sphurat-phaṇā-maṇi-prabhā-\n-kadamba-kuṅkuma-drava-pralipta-dig-vadhū-mukhe |\nmadāndha-sindhura-sphurat-tvag-uttarīya-medure\nmano vinodam-adbhutaṁ bibhartu bhūta-bhartari ||4||",
+      "translations": {
+        "english": "May my mind find wondrous bliss in the Protector of all beings, upon whose neck the jewels of radiant serpent hoods cast reddish saffron hues across the horizons, and who wears the elephant-hide as His upper mantle.",
+        "hindi": "जिनकी जटाओं में लिपटे सर्पों के फणों की मणियों का पीला-लाल प्रकाश दिशाओं के मुख को कुंकुम के समान रंग रहा है, और जो मदमस्त हाथी के चर्म का उत्तरीय धारण किए हुए हैं, उन समस्त भूतों के स्वामी शिव में मेरा मन लीन रहे।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा-",
+          "transliteration_line": "jaṭā-bhujaṅga-piṅgala-sphurat-phaṇā-maṇi-prabhā-",
+          "meaning_english": "By the lustrous reddish light of gems on the serpent hoods in His matted hair",
+          "meaning_hindi": "जटाओं में लिपटे सर्पों के फणों की मणियों की आभा से"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे।",
+          "transliteration_line": "-kadamba-kuṅkuma-drava-pralipta-dig-vadhū-mukhe",
+          "meaning_english": "Anointing the faces of the directions with saffron paste",
+          "meaning_hindi": "दिशा रूपी सुंदरियों के मुख पर मानो कुंकुम का लेप लगा हो"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे",
+          "transliteration_line": "madāndha-sindhura-sphurat-tvag-uttarīya-medure",
+          "meaning_english": "Adorned with the glistening upper shawl of elephant skin",
+          "meaning_hindi": "मदमस्त हाथी की खाल का चमकीला उत्तरीय वस्त्र ओढ़े हुए"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "मनो विनोदमद्भुतं बिभर्तु भूतभर्तरि॥४॥",
+          "transliteration_line": "mano vinodam-adbhutaṁ bibhartu bhūta-bhartari",
+          "meaning_english": "May my mind sustain miraculous devotion in the protector of beings",
+          "meaning_hindi": "समस्त प्राणियों के पालनकर्ता शिव में मेरा मन अद्भुत आनंद प्राप्त करे"
+        }
+      ]
+    },
+    {
+      "stanza_number": 5,
+      "sanskrit_text": "सहस्रलोचनप्रभृत्यशेषलेखशेखर-\n-प्रसूनधूलिधोरणीविधूसराङ्घ्रिपीठभूः।\nभुजङ्गराजमालया निबद्धजाटजूटकः\nश्रियै चिराय जायतां चकोरबन्धुशेखरः॥५॥",
+      "transliteration": "sahasra-locana-prabhṛty-aśeṣa-lekha-śekhara-\n-prasūna-dhūli-dhoraṇī-vidhūsarāṅghri-pīṭha-bhūḥ |\nbhujaṅga-rāja-mālayā nibaddha-jāṭa-jūṭakaḥ\nśriyai cirāya jāyatāṁ cakora-bandhu-śekharaḥ ||5||",
+      "translations": {
+        "english": "May Lord Chandra-shekhara grant us enduring prosperity—He whose footstool is grayed by the pollen dust falling from the flowers in the crowns of Indra and all the gods, and whose locks are bound by the King of Serpents.",
+        "hindi": "इंद्र आदि समस्त देवताओं के मुकुटों से गिरे पुष्पों की पराग-धूलि से जिनके चरण-कमल धूसरित हैं, और जिनकी जटाएं नागराज की माला से बंधी हैं, वे चंद्रमौली शिव हमें चिरस्थायी संपत्ति और कल्याण प्रदान करें।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "सहस्रलोचनप्रभृत्यशेषलेखशेखर-",
+          "transliteration_line": "sahasra-locana-prabhṛty-aśeṣa-lekha-śekhara-",
+          "meaning_english": "From the crowns of Indra and all the gods",
+          "meaning_hindi": "इंद्र आदि समस्त देवताओं के मुकुटों के अग्रभाग से"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-प्रसूनधूलिधोरणीविधूसराङ्घ्रिपीठभूः।",
+          "transliteration_line": "-prasūna-dhūli-dhoraṇī-vidhūsarāङ्ghri-pīṭha-bhūḥ",
+          "meaning_english": "Whose footstool is dusted by streams of flower pollen",
+          "meaning_hindi": "पुष्पों के पराग की वर्षा से जिनकी चरण-पीठ धूसरित हो उठी है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "भुजङ्गराजमालया निबद्धजाटजूटकः",
+          "transliteration_line": "bhujaṅga-rāja-mālayā nibaddha-jāṭa-jūṭakaḥ",
+          "meaning_english": "Whose matted locks are bound tight by the serpent king",
+          "meaning_hindi": "नागराज की माला से जिनकी जटाएं बंधी हुई हैं"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "श्रियै चिराय जायतां चकोरबन्धुशेखरः॥५॥",
+          "transliteration_line": "śriyai cirāya jāyatāṁ cakora-bandhu-śekharaḥ",
+          "meaning_english": "May the moon-crowned Lord grant us lasting prosperity",
+          "meaning_hindi": "चंद्रमा को धारण करने वाले शिव हमें चिर समृद्धि दें"
+        }
+      ]
+    },
+    {
+      "stanza_number": 6,
+      "sanskrit_text": "ललाटचत्वरज्वलद्धनञ्जयस्फुलिङ्गभा-\n-निपीतपञ्चसायकं नमन्निलिम्पनायकम्।\nसुधामयूखलेखया विराजमानशेखरं\nमहाकपालिसम्पदे शिरोजटालमस्तु नः॥६॥",
+      "transliteration": "lalāṭa-catvara-jvalad-dhanañjaya-sphuliṅga-bhā-\n-nipīta-pañca-sāyakaṁ naman-nilimpa-nāyakam |\nsudhā-mayūkha-lekhayā virājamāna-śekharaṁ\nmahā-kapāli-sampade śiro-jaṭālam-astu naḥ ||6||",
+      "translations": {
+        "english": "May the matted crown of the Great Kapalin bestow spiritual wealth upon us—He who consumed Kamadeva with the blazing sparks of fire from His forehead, who is bowed to by Indra, and whose head is adorned by the moon.",
+        "hindi": "जिन्होंने अपने ललाट की प्रज्वलित अग्नि के स्फुलिंगों से कामदेव को भस्म कर दिया, जिन्हें देवराज इंद्र नमन करते हैं, और जिनके मस्तक पर अमृतमयी किरणों वाला चंद्रमा विराजमान है, उन महाकपाली शिव की जटाएं हमें परम संपदा दें।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "ललाटचत्वरज्वलद्धनञ्जयस्फुलिङ्गभा-",
+          "transliteration_line": "lalāṭa-catvara-jvalad-dhanañjaya-sphuliṅga-bhā-",
+          "meaning_english": "With sparks of fire blazing upon the courtyard of His forehead",
+          "meaning_hindi": "ललाट रूपी वेदी पर धधकती हुई अग्नि की चिंगारियों से"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-निपीतपञ्चसायकं नमन्निलिम्पनायकम्।",
+          "transliteration_line": "-nipīta-pañca-sāyakaṁ naman-nilimpa-nāyakam",
+          "meaning_english": "Devouring Kamadeva, and bowed down to by Indra",
+          "meaning_hindi": "कामदेव को भस्म करने वाले और देवराज इंद्र द्वारा वंदित"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "सुधामयूखलेखया विराजमानशेखरं",
+          "transliteration_line": "sudhā-mayūkha-lekhayā virājamāna-śekharaṁ",
+          "meaning_english": "Whose crest is illuminated by the nectarous moon",
+          "meaning_hindi": "अमृत किरण वाले चंद्र की कला से जिनका मस्तक सुशोभित है"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "महाकपालिसम्पदे शिरोजटालमस्तु नः॥६॥",
+          "transliteration_line": "mahā-kapāli-sampade śiro-jaṭālam-astu naḥ",
+          "meaning_english": "May that matted head of Kapalin lead to our prosperity",
+          "meaning_hindi": "उन महाकपाली शिव की जटाएं हमें परम ऐश्वर्य प्रदान करें"
+        }
+      ]
+    },
+    {
+      "stanza_number": 7,
+      "sanskrit_text": "करालभालपट्टिकाधधद्धधद्धधज्ज्वल-\nद्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायके।\nधराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रक-\n-प्रकल्पनैकशिल्पिनि त्रिलोचने रतिर्मम॥७॥",
+      "transliteration": "karāla-bhāla-paṭṭikā-dhadhad-dhadhad-dhadhaj-jvala-\nddhanañjayāhutī-kṛta-pracaṇḍa-pañca-sāyake |\ndharā-dharendra-nandinī-kucāgra-citra-patraka-\n-prakalpanaika-śilpini tri-locane ratir-mama ||7||",
+      "translations": {
+        "english": "May my heart delight in the Three-Eyed Lord, who offered fierce Kamadeva as a sacrifice into the roaring flame on His forehead, and who is the sole artist decorating Parvati.",
+        "hindi": "जिनके भयानक ललाट पर धक-धक जलती अग्नि ने प्रचंड कामदेव की आहुति ले ली, और जो पार्वती के अंगराग के सुंदर चित्र उकेरने वाले एकमात्र दिव्य शिल्पी हैं, उन त्रिनेत्रधारी शिव में मेरी अनन्य प्रीति हो।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "करालभालपट्टिकाधधद्धधद्धधज्ज्वल-",
+          "transliteration_line": "karāla-bhāla-paṭṭikā-dhadhad-dhadhad-dhadhaj-jvala-",
+          "meaning_english": "On the terrible forehead where the fire blazes incessantly",
+          "meaning_hindi": "विशाल ललाट पटल पर धधकती हुई प्रचंड अग्नि में"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "द्धनञ्जयाहुतीकृतप्रचण्डपञ्चसायके।",
+          "transliteration_line": "ddhanañjayāhutī-kṛta-pracaṇḍa-pañca-sāyake",
+          "meaning_english": "Making an oblation of Kamadeva",
+          "meaning_hindi": "जिन्होंने कामदेव को आहुति बनाकर भस्म कर दिया"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "धराधरेन्द्रनन्दिनीकुचाग्रचित्रपत्रक-",
+          "transliteration_line": "dharā-dharendra-nandinī-kucāgra-citra-patraka-",
+          "meaning_english": "Painting decorative motifs upon Parvati",
+          "meaning_hindi": "पर्वतराज-पुत्री पार्वती के वक्ष पर सुंदर पत्र-रचना करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "-प्रकल्पनैकशिल्पिनि त्रिलोचने रतिर्मम॥७॥",
+          "transliteration_line": "-prakalpanaika-śilpini tri-locane ratir-mama",
+          "meaning_english": "The sole master artist—in that Three-Eyed Lord is my devotion",
+          "meaning_hindi": "अद्वितीय शिल्पी उन त्रिलोचन शिव में मेरा अनुराग रहे"
+        }
+      ]
+    },
+    {
+      "stanza_number": 8,
+      "sanskrit_text": "नवीनमेघमण्डलीनिरुद्धदुर्धरस्फुरत्-\nकुहूनिशीथिनीतमःप्रबन्धबद्धकन्धरः।\nनिलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः\nकलानिधानबन्धुरः श्रियं जगद्धुरंधरः॥८॥",
+      "transliteration": "navīna-megha-maṇḍalī-niruddha-durdhara-sphurat-\nkuhū-niśīthinī-tamaḥ-prabandha-baddha-kandharaḥ |\nnilimpa-nirjharī-dharas-tanotu kṛtti-sindhuraḥ\nkalā-nidhāna-bandhuraḥ śriyaṁ jagad-dhuraṁ-dharaḥ ||8||",
+      "translations": {
+        "english": "May the Bearer of the universe grant us divine grace—He whose throat bears the dark luster of a new moon midnight enclosed by dense thunderclouds, who holds the celestial river, wears the elephant skin, and is crowned with the moon.",
+        "hindi": "जिनका कंठ नवीन मेघों की घटाओं से घिरी अमावस्या की अर्धरात्रि के गहन अंधकार जैसा श्यामल है, जो देवनदी गंगा को धारण करते हैं, गजचर्म ओढ़ते हैं, और चंद्रमा से सुशोभित हैं, वे जगत् के पालनहार शिव हमारा मंगल करें।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "नवीनमेघमण्डलीनिरुद्धदुर्धरस्फुरत्-",
+          "transliteration_line": "navīna-megha-maṇḍalī-niruddha-durdhara-sphurat-",
+          "meaning_english": "Like thick layers of newly gathered dark monsoon clouds",
+          "meaning_hindi": "नवीन बादलों के समूह से घिरे हुए आकाश के समान"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "कुहूनिशीथिनीतमःप्रबन्धबद्धकन्धरः।",
+          "transliteration_line": "kuhū-niśīthinī-tamaḥ-prabandha-baddha-kandharaḥ",
+          "meaning_english": "Whose throat is dark like the dense gloom of an Amavasya night",
+          "meaning_hindi": "अमावस्या की आधी रात के अंधकार से युक्त जिनका कंठ है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "निलिम्पनिर्झरीधरस्तनोतु कृत्तिसिन्धुरः",
+          "transliteration_line": "nilimpa-nirjharī-dharas-tanotu kṛtti-sindhuraḥ",
+          "meaning_english": "Holding the heavenly stream and wearing the elephant hide",
+          "meaning_hindi": "गंगा को धारण करने वाले तथा गज-चर्म को ओढ़ने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "कलानिधानबन्धुरः श्रियं जगद्धुरंधरः॥८॥",
+          "transliteration_line": "kalā-nidhāna-bandhuraḥ śriyaṁ jagad-dhuraṁ-dharaḥ",
+          "meaning_english": "Beautiful with the moon, may the Upholder of the cosmos extend prosperity",
+          "meaning_hindi": "चंद्रकला से मनोहर, संसार का भार उठाने वाले शिव हमें समृद्धि दें"
+        }
+      ]
+    },
+    {
+      "stanza_number": 9,
+      "sanskrit_text": "प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभा-\n-वलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम्।\nस्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं\nगजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे॥९॥",
+      "transliteration": "praphulla-nīla-paṅkaja-prapañca-kālima-prabhā-\n-valambi-kaṇṭha-kandalī-ruci-prabaddha-kandharam |\nsmara-chidaṁ pura-chidaṁ bhava-chidaṁ makha-chidaṁ\ngaja-chidan-dhaka-chidaṁ tam-antaka-chidaṁ bhaje ||9||",
+      "translations": {
+        "english": "I worship Him whose neck glows with the dark blue splendor of blue lotuses, who is the destroyer of Kama, the shatterer of Tripura, the ender of worldly bondages, the destroyer of Daksha sacrifice, and conqueror of Yama.",
+        "hindi": "जिनके कंठ की कांति खिले हुए नीले कमलों की आभा जैसी श्यामल है; जो कामदेव, त्रिपुरासुर, भव-बंधन, दक्ष-यज्ञ, गजासुर, अंधकासुर और यमराज का भी अंत करने वाले हैं, उन भगवान शिव का मैं भजन करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "प्रफुल्लनीलपङ्कजप्रपञ्चकालिमप्रभा-",
+          "transliteration_line": "praphulla-nīla-paṅkaja-prapañca-kālima-prabhā-",
+          "meaning_english": "Radiating the deep luster of an array of fully blossomed blue lotuses",
+          "meaning_hindi": "खिले हुए नीलकमलों की श्यामल प्रभा के समान"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-वलम्बिकण्ठकन्दलीरुचिप्रबद्धकन्धरम्।",
+          "transliteration_line": "-valambi-kaṇṭha-kandalī-ruci-prabaddha-kandharam",
+          "meaning_english": "Adorning the tender stalk of His neck with dark resplendence",
+          "meaning_hindi": "सुंदर कंठ-नाल पर शोभायमान आभा को धारण करने वाले"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "स्मरच्छिदं पुरच्छिदं भवच्छिदं मखच्छिदं",
+          "transliteration_line": "smara-chidaṁ pura-chidaṁ bhava-chidaṁ makha-chidaṁ",
+          "meaning_english": "Slayer of Kamadeva, Tripura, earthly bondage, and Daksha yajna",
+          "meaning_hindi": "कामदेव, त्रिपुरासुर, संसार-भय और दक्ष-यज्ञ का नाश करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "गजच्छिदान्धकच्छिदं तमन्तकच्छिदं भजे॥९॥",
+          "transliteration_line": "gaja-chidan-dhaka-chidaṁ tam-antaka-chidaṁ bhaje",
+          "meaning_english": "Slayer of Gajasura, Andhaka, and Death; Him I adore",
+          "meaning_hindi": "गजासुर, अंधकासुर तथा यमराज का संहार करने वाले शिव को मैं भजता हूँ"
+        }
+      ]
+    },
+    {
+      "stanza_number": 10,
+      "sanskrit_text": "अखर्वसर्वमङ्गलाकलाकदम्बमञ्जरी-\n-रसप्रवाहमाधुरीविजृम्भणामधुव्रतम्।\nस्मरान्तकं पुरान्तकं भवान्तकं मखान्तकं\nगजान्तकान्धकान्तकं तमन्तकान्तकं भजे॥१०॥",
+      "transliteration": "akharva-sarva-maṅgalā-kalā-kadamba-mañjarī-\n-rasa-pravāha-mādhurī-vijṛmbhaṇā-madhu-vratam |\nsmarāntakaṁ purāntakaṁ bhavāntakaṁ makhāntakaṁ\ngajāntakāndhakāntakaṁ tam-antakāntakaṁ bhaje ||10||",
+      "translations": {
+        "english": "I worship Him who is like a honeybee savoring the sweetness flowing from the auspicious blossoms of Parvati divine arts, who ended Kama, Tripura, worldly sorrow, and Death itself.",
+        "hindi": "जो माता पार्वती की समस्त कल्याणकारी कला रूपी कदंब-मंजरियों के मधुर रस का पान करने वाले भौंरे के समान हैं; जो काम, त्रिपुर, संसार-दुःख, यज्ञ, गजासुर, अंधकासुर और मृत्यु के भी काल हैं, उन शिव की मैं शरण लेता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "अखर्वसर्वमङ्गलाकलाकदम्बमञ्जरी-",
+          "transliteration_line": "akharva-sarva-maṅgalā-kalā-kadamba-mañjarī-",
+          "meaning_english": "From the blossomed kadamba clusters of Parvati divine arts",
+          "meaning_hindi": "माता पार्वती की समस्त मंगलमयी कलाओं के कदंब पुष्पों से"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-रसप्रवाहमाधुरीविजृम्भणामधुव्रतम्।",
+          "transliteration_line": "-rasa-pravāha-mādhurī-vijṛmbhaṇā-madhu-vratam",
+          "meaning_english": "The divine bee that drinks the flowing nectar",
+          "meaning_hindi": "बहती हुई मधुर रस-धारा का पान करने वाले भ्रमर स्वरूप शिव"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "स्मरान्तकं पुरान्तकं भवान्तकं मखान्तकं",
+          "transliteration_line": "smarāntakaṁ purāntakaṁ bhavāntakaṁ makhāntakaṁ",
+          "meaning_english": "Terminator of Kama, Tripura, rebirth, and sacrifice",
+          "meaning_hindi": "कामदेव, त्रिपुर, जन्म-मरण चक्र और दक्ष-यज्ञ का अंत करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "गजान्तकान्धकान्तकं तमन्तकान्तकं भजे॥१०॥",
+          "transliteration_line": "gajāntakāndhakāntakaṁ tam-antakāntakaṁ bhaje",
+          "meaning_english": "Destroyer of Gajasura, Andhaka, and Death; Him I worship",
+          "meaning_hindi": "गजासुर, अंधक और काल के भी काल शिव की मैं उपासना करता हूँ"
+        }
+      ]
+    },
+    {
+      "stanza_number": 11,
+      "sanskrit_text": "जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस-\n-द्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट्।\nधिमिद्धिमिद्धिमिध्वनन्मृदङ्गतुङ्गमङ्गल-\nध्वनिक्रमप्रवर्तितप्रचण्डताण्डवः शिवः॥११॥",
+      "transliteration": "jayatv-adabhra-vibhrama-bhramad-bhujaṅgama-śvasa-\n-dvinirgamat-krama-sphurat-karāla-bhāla-havya-vāṭ |\ndhimid-dhimid-dhimid-dhvanan-mṛdaṅga-tuṅga-maṅgala-\ndhvani-krama-pravartita-pracaṇḍa-tāṇḍavaḥ śivaḥ ||11||",
+      "translations": {
+        "english": "Victory to Lord Shiva, whose fierce forehead fire blazes fueled by hissing serpents, and whose tempestuous Tandava unfolds to the auspicious rhythm of 'dhimid dhimid' from the mridangam.",
+        "hindi": "भगवान शिव की जय हो, जिनके मस्तक की प्रचंड अग्नि जटाओं में घूमते सर्पों की फुंकार से और भड़क रही है, और जो मृदंग की मांगलिक 'धिमिद्-धिमिद्' ध्वनि की ताल पर अपने प्रचंड तांडव नृत्य में मग्न हैं।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "जयत्वदभ्रविभ्रमभ्रमद्भुजङ्गमश्वस-",
+          "transliteration_line": "jayatv-adabhra-vibhrama-bhramad-bhujaṅgama-śvasa-",
+          "meaning_english": "From the hissing breath of serpents coiled around",
+          "meaning_hindi": "तेजी से घूमते हुए भयानक सर्पों की तीव्र श्वास-फुंकार से"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-द्विनिर्गमत्क्रमस्फुरत्करालभालहव्यवाट्।",
+          "transliteration_line": "-dvinirgamat-krama-sphurat-karāla-bhāla-havya-vāṭ",
+          "meaning_english": "The sacred fire blazes on His forehead",
+          "meaning_hindi": "जिनके भयानक ललाट की अग्नि निरंतर धधक रही है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "धिमिद्धिमिद्धिमिध्वनन्मृदङ्गतुङ्गमङ्गल-",
+          "transliteration_line": "dhimid-dhimid-dhimid-dhvanan-mṛdaṅga-tuṅga-maṅgala-",
+          "meaning_english": "To the auspicious sound of dhimid-dhimid drumbeats",
+          "meaning_hindi": "मृदंग की धिमि-धिमि की गंभीर मंगलकारी ध्वनि के साथ"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "ध्वनिक्रमप्रवर्तितप्रचण्डताण्डवः शिवः॥११॥",
+          "transliteration_line": "dhvani-krama-pravartita-pracaṇḍa-tāṇḍavaḥ śivaḥ",
+          "meaning_english": "Unfolding His fiery cosmic Tandava dance; victory to Shiva",
+          "meaning_hindi": "प्रचंड तांडव नृत्य रचने वाले भगवान शिव की सदा जय हो"
+        }
+      ]
+    },
+    {
+      "stanza_number": 12,
+      "sanskrit_text": "दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-\n-गरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः।\nतृणारविन्दचक्षुषोः प्रजामहीमहेन्द्रयोः\nसमप्रवृत्तिकः कदा सदाशिवं भजाम्यहम्॥१२॥",
+      "transliteration": "dṛṣad-vicitra-talpayor-bhujaṅga-mauktika-srajor-\n-gariṣṭha-ratna-loṣṭhayoḥ suhṛd-vipakṣa-pakṣayoḥ |\ntṛṇāra-vinda-cakṣuṣoḥ prajā-mahī-mahendrayoḥ\nsama-pravṛttikaḥ kadā sadāśivaṁ bhajāmy-aham ||12||",
+      "translations": {
+        "english": "When will I worship Lord Sadashiva with equanimity toward stone or bed, serpent or pearl necklace, gem or clay, friend or foe, grass or lotus eyes, subject or emperor?",
+        "hindi": "कठोर पत्थर और कोमल शय्या में, सर्प और मोतियों के हार में, बहुमूल्य रत्न और मिट्टी के ढेले में, मित्र और शत्रु में, तिनके और कमल-नयनों में, साधारण प्रजा और राजा में—समान भाव रखकर मैं कब सदाशिव की अनन्य उपासना करूँगा?"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "दृषद्विचित्रतल्पयोर्भुजङ्गमौक्तिकस्रजोर्-",
+          "transliteration_line": "dṛṣad-vicitra-talpayor-bhujaṅga-mauktika-srajor-",
+          "meaning_english": "Between stone and bed, serpent and pearl garland",
+          "meaning_hindi": "कठोर पत्थर और सुंदर शय्या में, सर्प और मोती की माला में"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "-गरिष्ठरत्नलोष्ठयोः सुहृद्विपक्षपक्षयोः।",
+          "transliteration_line": "-gariṣṭha-ratna-loṣṭhayoḥ suhṛd-vipakṣa-pakṣayoḥ",
+          "meaning_english": "Between gem and clay, friend and foe",
+          "meaning_hindi": "मूल्यवान रत्न और मिट्टी के ढेले में, मित्र और विरोधी पक्ष में"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "तृणारविन्दचक्षुषोः प्रजामहीमहेन्द्रयोः",
+          "transliteration_line": "tṛṇāra-vinda-cakṣuṣoḥ prajā-mahī-mahendrayoḥ",
+          "meaning_english": "Between blade of grass and lotus eye, subject and emperor",
+          "meaning_hindi": "तिनके और कमल-नयन में, साधारण प्रजा और पृथ्वी के सम्राट में"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "समप्रवृत्तिकः कदा सदाशिवं भजाम्यहम्॥१२॥",
+          "transliteration_line": "sama-pravṛttikaḥ kadā sadāśivaṁ bhajāmy-aham",
+          "meaning_english": "Maintaining supreme equanimity, when shall I worship Sadashiva?",
+          "meaning_hindi": "समान समदर्शी दृष्टि रखकर मैं कब सदाशिव का भजन करूँगा"
+        }
+      ]
+    },
+    {
+      "stanza_number": 13,
+      "sanskrit_text": "कदा निलिम्पनिर्झरीनिकुञ्जकोटरे वसन्\nविमुक्तदुर्मतिः सदा शिरःस्थमञ्जलिं वहन्।\nविमुक्तलोललोचनो ललामभाललग्नकः\nशिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम्॥१३॥",
+      "transliteration": "kadā nilimpa-nirjharī-nikuñja-koṭare vasan\nvimukta-durmatiḥ sadā śiraḥ-stham-añjaliṁ vahan |\nvimukta-lola-locano lalāma-bhāla-lagnakaḥ\nśiveti mantram-uccaran kadā sukhī bhavāmy-aham ||13||",
+      "translations": {
+        "english": "When will I live beside the celestial Ganga, freed from ill thoughts, folding hands over head, meditating upon Him who has the shining crescent, chanting 'Shiva', and attaining peace?",
+        "hindi": "देवनदी गंगा की सुरम्य कंदराओं में वास करते हुए, दुर्बुद्धि से मुक्त होकर, शीश पर हाथ जोड़े, चंचल वासनाओं से विलग, ललाट पर चंद्रमा धारण करने वाले शिव का नाम जपते हुए मैं कब परमानंद को प्राप्त करूँगा?"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "कदा निलिम्पनिर्झरीनिकुञ्जकोटरे वसन्",
+          "transliteration_line": "kadā nilimpa-nirjharī-nikuñja-koṭare vasan",
+          "meaning_english": "Residing in groves beside the celestial Ganga",
+          "meaning_hindi": "देवनदी गंगा के पावन तट की गुफाओं में निवास करते हुए"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "विमुक्तदुर्मतिः सदा शिरःस्थमञ्जलिं वहन्।",
+          "transliteration_line": "vimukta-durmatiḥ sadā śiraḥ-stham-añjaliṁ vahan",
+          "meaning_english": "Freed from impure thoughts, holding hands folded above my head",
+          "meaning_hindi": "दुर्भावनाओं से मुक्त होकर और मस्तक पर अंजलि बांधे हुए"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "विमुक्तलोललोचनो ललामभाललग्नकः",
+          "transliteration_line": "vimukta-lola-locano lalāma-bhāla-lagnakaḥ",
+          "meaning_english": "Detached from worldly eyes, contemplating His luminous forehead",
+          "meaning_hindi": "सांसारिक चंचलता त्यागकर, सुंदर चंद्रभाल शिव में लीन होकर"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवेति मन्त्रमुच्चरन् कदा सुखी भवाम्यहम्॥१३॥",
+          "transliteration_line": "śiveti mantram-uccaran kadā sukhī bhavāmy-aham",
+          "meaning_english": "Chanting 'Shiva', when shall I become eternally joyful?",
+          "meaning_hindi": "'शिव' मंत्र का निरंतर उच्चारण करते हुए मैं कब सुखी होऊंगा"
+        }
+      ]
+    },
+    {
+      "stanza_number": 14,
+      "sanskrit_text": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं\nपठन्स्मरन्ब्रुवन्नरो विशुद्धिमेति संततम्।\nहरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं\nविमोहनं हि देहिनां सुशङ्करस्य चिन्तनम्॥१४॥",
+      "transliteration": "imaṁ hi nityam-evam-uktam-uttamottamaṁ stavaṁ\npaṭhan-smaran-bruvan-naro viśuddhim-eti santatam |\nhare gurau subhaktim-āśu yāti nānyathā gatiṁ\nvimohanaṁ hi dehināṁ suśaṅkarasya cintanam ||14||",
+      "translations": {
+        "english": "Whoever recites, remembers, and chants this hymn daily attains inner purity and devotion to Lord Shiva, the supreme Guru. There is no other path, for contemplation of Shankara destroys illusion.",
+        "hindi": "जो मनुष्य इस सर्वोत्तम स्तोत्र का नित्य पाठ, स्मरण और कीर्तन करता है, वह निरंतर परम शुद्धि को प्राप्त करता है और जगद्गुरु भगवान शिव की भक्ति पाता है। शिव का यह चिंतन समस्त सांसारिक मोह का नाश करने वाला है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "इमं हि नित्यमेवमुक्तमुत्तमोत्तमं स्तवं",
+          "transliteration_line": "imaṁ hi nityam-evam-uktam-uttamottamaṁ stavaṁ",
+          "meaning_english": "Whoever reads this most exalted hymn daily",
+          "meaning_hindi": "इस प्रकार कहे गए इस श्रेष्ठतम स्तोत्र का जो नित्य पाठ करता है"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "पठन्स्मरन्ब्रुवन्नरो विशुद्धिमेति संततम्।",
+          "transliteration_line": "paṭhan-smaran-bruvan-naro viśuddhim-eti santatam",
+          "meaning_english": "Reciting and remembering it attains continuous purity",
+          "meaning_hindi": "पठन, स्मरण और उच्चारण करने वाला मनुष्य निरंतर पवित्रता पाता है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "हरे गुरौ सुभक्तिमाशु याति नान्यथा गतिं",
+          "transliteration_line": "hare gurau subhaktim-āśu yāti nānyathā gatiṁ",
+          "meaning_english": "Quickly attains devotion to Lord Shiva, the Guru",
+          "meaning_hindi": "वह जगद्गुरु भगवान शंकर की अनन्य भक्ति पाता है, अन्य कोई गति नहीं"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "विमोहनं हि देहिनां सुशङ्करस्य चिन्तनम्॥१४॥",
+          "transliteration_line": "vimohanaṁ hi dehināṁ suśaṅkarasya cintanam",
+          "meaning_english": "Contemplation of Shankara dispels all delusion",
+          "meaning_hindi": "क्योंकि कल्याणकारी शिव का चिंतन समस्त जीवों के मोह का निवारण करता है"
+        }
+      ]
+    },
+    {
+      "stanza_number": 15,
+      "sanskrit_text": "पूजावसानसमये दशवक्त्रगीतं\nयः शम्भुपूजनपरं पठति प्रदोषे।\nतस्य स्थिरां रथगजेन्द्रतुरङ्गयुक्तां\nलक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः॥१५॥",
+      "transliteration": "pūjāvasāna-samaye daśa-vaktra-gītaṁ\nyaḥ śambhu-pūjana-paraṁ paṭhati pradoṣe |\ntasya sthirāṁ ratha-gajendra-turaṅga-yuktāṁ\nlakṣmīṁ sadaiva sumukhīṁ pradadāti śambhuḥ ||15||",
+      "translations": {
+        "english": "At the conclusion of evening worship during Pradosha, whoever recites this hymn sung by Ravana with devotion, Lord Shambhu blesses them with enduring prosperity and grace.",
+        "hindi": "संध्याकाल में प्रदोष के समय शिव पूजा की समाप्ति पर रावण द्वारा रचित इस स्तोत्र का जो पाठ करता है, भगवान शंभु उसे रथ, गज, अश्व से संपन्न स्थिर लक्ष्मी और सर्वदा प्रसन्न रहने वाला सौभाग्य प्रदान करते हैं।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "पूजावसानसमये दशवक्त्रगीतं",
+          "transliteration_line": "pūjāvasāna-samaye daśa-vaktra-gītaṁ",
+          "meaning_english": "At the end of worship, this song by ten-headed Ravana",
+          "meaning_hindi": "पूजा की समाप्ति के समय दस मुख वाले रावण द्वारा गाए गए"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "यः शम्भुपूजनपरं पठति प्रदोषे।",
+          "transliteration_line": "yaḥ śambhu-pūjana-paraṁ paṭhati pradoṣe",
+          "meaning_english": "Whoever recites during Pradosha devoted to Lord Shambhu",
+          "meaning_hindi": "जो मनुष्य प्रदोष काल में शिव पूजन के उपरांत इसका पाठ करता है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "तस्य स्थिरां रथगजेन्द्रतुरङ्गयुक्तां",
+          "transliteration_line": "tasya sthirāṁ ratha-gajendra-turaṅga-yuktāṁ",
+          "meaning_english": "Endowed with chariots, elephants, and steeds",
+          "meaning_hindi": "उसे रथ, हाथी और घोड़ों से युक्त स्थिर और अखंड संपदा"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "लक्ष्मीं सदैव सुमुखीं प्रददाति शम्भुः॥१५॥",
+          "transliteration_line": "lakṣmīṁ sadaiva sumukhīṁ pradadāti śambhuḥ",
+          "meaning_english": "Lord Shambhu forever grants lasting prosperity",
+          "meaning_hindi": "भगवान शंभु सर्वदा प्रसन्न रहने वाली लक्ष्मी प्रदान करते हैं"
+        }
+      ]
+    }
+  ]
+}
