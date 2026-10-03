@@ -1,0 +1,50 @@
+{
+  "id": "shiv-tandav",
+  "title_sanskrit": "शिवताण्डवस्तोत्रम्",
+  "title_transliteration": "Shiva Tandava Stotram",
+  "title_english": "Hymn of Shiva's Cosmic Dance",
+  "author": "Ravana",
+  "description": "A powerful hymn composed by Ravana praising Lord Shiva's divine power, beauty, and cosmic dance of destruction and creation.",
+  "total_stanzas": 1,
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥",
+      "transliteration": "jaṭā-ṭavī-galaj-jala-pravāha-pāvita-sthale\ngale'valambya lambitāṁ bhujaṅga-tuṅga-mālikām |\nḍamaḍ-ḍamaḍ-ḍamaḍ-damannināda-vaḍ-ḍamarvayaṁ\ncakāra caṇḍa-tāṇḍavaṁ tanotu naḥ śivaḥ śivam ||1||",
+      "translations": {
+        "english": "May Lord Shiva, whose neck is purified by the flowing waters of the forest of his matted locks, who wears a lofty garland of snakes hanging around his neck, who plays the drum making 'damaḍ damaḍ' sounds, and who performs the fierce cosmic dance, bestow auspiciousness upon us.",
+        "hindi": "जिनकी जटाओं के वन से बहने वाले जल-प्रवाह से जिनका कंठ पवित्र हो गया है, जिनके गले में लंबी सर्पों की माला लटक रही है, जो 'डमड् डमड्' ऐसी डमरू की ध्वनि कर रहे हैं, और जो चंड ताण्डव करते हैं, वे शिव हमारा कल्याण करें।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "जटाटवीगलज्जलप्रवाहपावितस्थले",
+          "transliteration_line": "jaṭā-ṭavī-galaj-jala-pravāha-pāvita-sthale",
+          "meaning_english": "Whose place (neck) is purified by the flowing waters from the forest of matted locks",
+          "meaning_hindi": "जिनका कंठ जटाओं के वन से बहने वाले जल-प्रवाह से पवित्र हो गया है"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।",
+          "transliteration_line": "gale'valambya lambitāṁ bhujaṅga-tuṅga-mālikām",
+          "meaning_english": "Having hung a lofty garland of serpents around his neck",
+          "meaning_hindi": "गले में लंबी सर्पों की माला धारण किए हुए"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "डमड्डमड्डमड्डमन्निनादवड्डमर्वयं",
+          "transliteration_line": "ḍamaḍ-ḍamaḍ-ḍamaḍ-damannināda-vaḍ-ḍamarvayaṁ",
+          "meaning_english": "Who plays the damru drum making 'damaḍ damaḍ' sounds",
+          "meaning_hindi": "जो 'डमड् डमड्' ऐसी डमरू की ध्वनि कर रहे हैं"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "चकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥",
+          "transliteration_line": "cakāra caṇḍa-tāṇḍavaṁ tanotu naḥ śivaḥ śivam",
+          "meaning_english": "Performed the fierce cosmic dance; may that Shiva extend auspiciousness to us",
+          "meaning_hindi": "जिन्होंने चंड ताण्डव किया, वे शिव हमारा कल्याण करें"
+        }
+      ]
+    }
+  ]
+}
