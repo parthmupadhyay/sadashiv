@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
+import { promises as fs } from 'fs';
 import path from 'path';
 import { Stotra } from '@/types/stotra';
 
@@ -7,16 +7,18 @@ export async function GET() {
   try {
     const stotrasDirectory = path.join(process.cwd(), 'src/data/stotras');
     
-    if (!fs.existsSync(stotrasDirectory)) {
+    try {
+      await fs.access(stotrasDirectory);
+    } catch {
       return NextResponse.json([]);
     }
 
-    const filenames = fs.readdirSync(stotrasDirectory);
-    const stotras = filenames
+    const filenames = await fs.readdir(stotrasDirectory);
+    const stotraPromises = filenames
       .filter((filename) => filename.endsWith('.json'))
-      .map((filename) => {
+      .map(async (filename) => {
         const filePath = path.join(stotrasDirectory, filename);
-        const fileContents = fs.readFileSync(filePath, 'utf8');
+        const fileContents = await fs.readFile(filePath, 'utf8');
         const stotra: Stotra = JSON.parse(fileContents);
 
         return {
@@ -24,9 +26,12 @@ export async function GET() {
           title_sanskrit: stotra.title_sanskrit,
           title_transliteration: stotra.title_transliteration,
           title_english: stotra.title_english,
+          author: stotra.author,
           total_stanzas: stotra.total_stanzas,
         };
       });
+
+    const stotras = await Promise.all(stotraPromises);
 
     return NextResponse.json(stotras);
   } catch (error) {

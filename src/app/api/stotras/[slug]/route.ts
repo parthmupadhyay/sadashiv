@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
+import { promises as fs } from 'fs';
 import path from 'path';
 
 export async function GET(
@@ -10,15 +10,14 @@ export async function GET(
     const { slug } = await params;
     const filePath = path.join(process.cwd(), 'src/data/stotras', `${slug}.json`);
 
-    if (!fs.existsSync(filePath)) {
-      return NextResponse.json({ error: 'Stotra not found' }, { status: 404 });
-    }
-
-    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const fileContents = await fs.readFile(filePath, 'utf8');
     const stotra = JSON.parse(fileContents);
 
     return NextResponse.json(stotra);
-  } catch (error) {
+  } catch (error: any) {
+    if (error.code === 'ENOENT') {
+      return NextResponse.json({ error: 'Stotra not found' }, { status: 404 });
+    }
     console.error('Error reading stotra:', error);
     return NextResponse.json({ error: 'Internal Server Error' }, { status: 500 });
   }
