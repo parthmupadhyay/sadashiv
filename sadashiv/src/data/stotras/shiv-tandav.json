@@ -6,4 +6,8 @@
   "author": "Ravana",
   "description": "A powerful hymn composed by Ravana praising Lord Shiva's divine power, beauty, and cosmic dance of destruction and creation.",
   "total_stanzas": 1,
-  "stanzas":
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।\nडमड्डमड्डमड्डमन्निनादवड्डमर्वयं\nचकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥",
+      "transliteration": "jaṭā-ṭavī-galaj-jala-pravāha-pāvita-sthale\ngale'valambya lambitāṁ bhujaṅga-tuṅga-mālikām |\nḍamaḍ-ḍamaḍ-ḍama
