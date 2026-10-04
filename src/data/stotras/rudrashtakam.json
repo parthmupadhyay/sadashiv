@@ -44,7 +44,11 @@
           "meaning_english": "The sky of pure consciousness, clad in space; in Him I take refuge",
           "meaning_hindi": "चिदाकाश रूप तथा आकाश को ही वस्त्र रूप में धारण करने वाले उस शिव का मैं भजन करता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 0,
+        "end": 40
+      }
     },
     {
       "stanza_number": 2,
@@ -83,7 +87,11 @@
           "meaning_english": "The abode of supreme virtues, taking seekers beyond samsara; to Him I bow",
           "meaning_hindi": "समस्त सद्गुणों के सागर और संसार-समुद्र से पार ले जाने वाले को मैं प्रणाम करता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 40,
+        "end": 80
+      }
     },
     {
       "stanza_number": 3,
@@ -122,7 +130,11 @@
           "meaning_english": "Crowned by the luminous crescent moon upon His forehead, with serpents coiling His neck",
           "meaning_hindi": "जिनके मस्तक पर बाल-चंद्रमा चमकता है और कंठ में सर्प सुशोभित हैं"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 80,
+        "end": 120
+      }
     },
     {
       "stanza_number": 4,
@@ -161,7 +173,11 @@
           "meaning_english": "I adore the dearly beloved Shankara, the sovereign Lord of all existence",
           "meaning_hindi": "उन सर्वप्रिय, सर्वकल्याणकारी एवं सबके अधिपति शिव की मैं वंदना करता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 120,
+        "end": 160
+      }
     },
     {
       "stanza_number": 5,
@@ -200,7 +216,11 @@
           "meaning_english": "I adore Bhavani's consort, who is reached through heartfelt surrender and love",
           "meaning_hindi": "सच्चे प्रेम-भाव से सुलभ होने वाले भगवती भवानी के स्वामी को मैं भजता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 160,
+        "end": 200
+      }
     },
     {
       "stanza_number": 6,
@@ -239,7 +259,11 @@
           "meaning_english": "Be gracious, be propitiated, O Lord and conqueror of Kamadeva!",
           "meaning_hindi": "हे कामदेव के संहारक प्रभु! मुझ पर प्रसन्न होइए, प्रसन्न होइए"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 200,
+        "end": 240
+      }
     },
     {
       "stanza_number": 7,
@@ -278,7 +302,11 @@
           "meaning_english": "Be pleased, O Lord who dwells in the hearts of all living beings",
           "meaning_hindi": "हे सर्वभूत-निवासी प्रभु! मुझ दीन पर कृपा कर प्रसन्न होइए"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 240,
+        "end": 280
+      }
     },
     {
       "stanza_number": 8,
@@ -317,46 +345,16 @@
           "meaning_english": "O Lord, protect this surrendered soul who has sought refuge in You, O Shambhu!",
           "meaning_hindi": "हे प्रभु! संकट में पड़े इस दास की रक्षा कीजिए, हे ईशान! हे शंभो!"
         }
-      ]
-    },
-    {
-      "stanza_number": 9,
-      "sanskrit_text": "रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये।\nये पठन्ति नरा भक्त्या तेषां शम्भुः प्रसीदति॥९॥",
-      "transliteration": "rudrāṣṭakam-idaṁ proktaṁ vipreṇa hara-toṣaye |\nye paṭhanti narā bhaktyā teṣāṁ śambhuḥ prasīdati ||9||",
-      "translations": {
-        "english": "This eightfold hymn to Rudra was sung by the brahmin to propitiate Lord Shiva. Lord Shambhu is pleased with those who recite it with sincere devotion and grants them auspicious grace.",
-        "hindi": "भगवान शिव की प्रसन्नता के लिए ब्राह्मण (काकभुशुण्डि जी के गुरु/ऋषि लोमश) द्वारा इस रुद्राष्टकम की रचना की गई। जो मनुष्य भक्तिभाव से इसका नित्य पाठ करते हैं, उन पर भगवान शंभु सदैव प्रसन्न रहते हैं।"
-      },
-      "line_breakdown": [
-        {
-          "line_number": 1,
-          "sanskrit_line": "रुद्राष्टकमिदं प्रोक्तं",
-          "transliteration_line": "rudrāṣṭakam-idaṁ proktaṁ",
-          "meaning_english": "This eightfold hymn dedicated to Lord Rudra has been proclaimed",
-          "meaning_hindi": "यह रुद्राष्टक स्तोत्र कहा गया है"
-        },
-        {
-          "line_number": 2,
-          "sanskrit_line": "विप्रेण हरतोषये।",
-          "transliteration_line": "vipreṇa hara-toṣaye",
-          "meaning_english": "Composed by the sage to delight Lord Shiva (Hara)",
-          "meaning_hindi": "ब्राह्मण द्वारा भगवान शिव को प्रसन्न करने के निमित्त"
-        },
-        {
-          "line_number": 3,
-          "sanskrit_line": "ये पठन्ति नरा भक्त्या",
-          "transliteration_line": "ye paṭhanti narā bhaktyā",
-          "meaning_english": "Those individuals who recite this with sincere faith and devotion",
-          "meaning_hindi": "जो भी मनुष्य इसे अनन्य भक्ति और निष्ठा से पढ़ते हैं"
-        },
-        {
-          "line_number": 4,
-          "sanskrit_line": "तेषां शम्भुः प्रसीदति॥९॥",
-          "transliteration_line": "teṣāṁ śambhuḥ prasīdati",
-          "meaning_english": "Upon them Lord Shambhu bestows His divine favor and auspicious blessings",
-          "meaning_hindi": "भगवान शंभु उन पर सदा अत्यंत प्रसन्न रहते हैं"
-        }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 280,
+        "end": 325
+      }
     }
-  ]
+  ],
+  "audio": {
+    "provider": "youtube",
+    "youtube_id": "1883R6BD4wk",
+    "title": "Sacred Shri Rudrashtakam Chanting"
+  }
 }

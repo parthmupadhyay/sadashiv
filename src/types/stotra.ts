@@ -11,12 +11,25 @@ export interface Translation {
   hindi: string;
 }
 
+export interface AudioTimestamp {
+  start: number;
+  end: number;
+}
+
+export interface StotraAudio {
+  provider: "youtube" | "audio_file";
+  youtube_id?: string;
+  url?: string;
+  title: string;
+}
+
 export interface Stanza {
   stanza_number: number;
   sanskrit_text: string;
   transliteration: string;
   translations: Translation;
   line_breakdown?: LineBreakdown[];
+  audio_timestamp?: AudioTimestamp;
 }
 
 export interface Stotra {
@@ -28,4 +41,5 @@ export interface Stotra {
   description: string;
   total_stanzas: number;
   stanzas: Stanza[];
+  audio?: StotraAudio;
 }

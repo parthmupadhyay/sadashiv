@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Stanza } from '@/types/stotra';
 import { Card } from '@/components/ui/Card';
 import { Badge } from '@/components/ui/Badge';
@@ -8,19 +8,45 @@ import { LanguageToggle } from '@/components/ui/LanguageToggle';
 
 interface StanzaViewerProps {
   stanza: Stanza;
+  isActive?: boolean;
+  onPlay?: () => void;
+  hasAudio?: boolean;
 }
 
-export default function StanzaViewer({ stanza }: StanzaViewerProps) {
+export default function StanzaViewer({ stanza, isActive, onPlay, hasAudio }: StanzaViewerProps) {
   const [activeLang, setActiveLang] = useState<'english' | 'hindi'>('english');
   const [showBreakdown, setShowBreakdown] = useState(false);
+  const cardRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (isActive && cardRef.current) {
+      cardRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+  }, [isActive]);
 
   return (
-    <Card className="relative overflow-hidden p-4 sm:p-6">
+    <Card 
+      ref={cardRef}
+      className={`relative overflow-hidden p-4 sm:p-6 transition-all duration-500 ${
+        isActive ? 'ring-1 ring-amber-500/50 shadow-lg shadow-amber-500/10 bg-stone-900/60' : ''
+      }`}
+    >
       {/* Header */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6 pb-4 border-b border-neutral-800/80">
-        <Badge variant="gold">
-          Stanza {stanza.stanza_number}
-        </Badge>
+        <div className="flex items-center gap-3">
+          <Badge variant="gold">
+            Stanza {stanza.stanza_number}
+          </Badge>
+          {hasAudio && onPlay && (
+            <button 
+              onClick={onPlay}
+              className="text-amber-400 hover:text-amber-300 bg-amber-500/10 hover:bg-amber-500/20 p-1.5 rounded-full transition-colors border border-amber-500/20"
+              title="Play this stanza"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 fill-current" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            </button>
+          )}
+        </div>
         <LanguageToggle activeLang={activeLang} onChange={setActiveLang} />
       </div>
 
