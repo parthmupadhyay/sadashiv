@@ -14,8 +14,8 @@ export async function GET(
     const stotra = JSON.parse(fileContents);
 
     return NextResponse.json(stotra);
-  } catch (error: any) {
-    if (error.code === 'ENOENT') {
+  } catch (error) {
+    if ((error as { code?: string }).code === 'ENOENT') {
       return NextResponse.json({ error: 'Stotra not found' }, { status: 404 });
     }
     console.error('Error reading stotra:', error);
