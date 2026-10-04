@@ -1,0 +1,473 @@
+{
+  "id": "suvarna-mala-stuti",
+  "title_sanskrit": "सुवर्णमालास्तुतिः",
+  "title_transliteration": "Suvarṇamālā Stutiḥ",
+  "title_english": "Golden Garland Hymn of Praise to Shiva",
+  "author": "Adi Shankaracharya",
+  "description": "Composed by Jagadguru Adi Shankaracharya, this 50-verse devotional hymn forms an alphabetical garland (akṣaramālā) where each verse begins with a successive letter of the Sanskrit alphabet from 'अ' to 'क्ष', culminating in the beloved refrain to Lord Samba Sadashiva.",
+  "total_stanzas": 50,
+  "colophon": {
+    "sanskrit": "॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यश्रीगोविन्दभगवत्पूज्यपादशिष्यस्य श्रीशङ्करभगवतः कृतौ सुवर्णमालास्तुतिः सम्पूर्णा ॥ ओम्",
+    "transliteration": "॥ iti śrīmatparamahaṃsaparivrājakācāryaśrīgovindabhagavatpūjyapādaśiṣyasya śrīśaṅkarabhagavataḥ kṛtau suvarṇamālāstutiḥ sampūrṇā ॥ om"
+  },
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "अथ कथंमपि मद्रसनां\nत्वद्गुण-लेशै-र्विशोधयामि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरण-युगम् ॥ १ ॥",
+      "transliteration": "atha kathaṃmapi madrasanāṃ\ntvadguṇa-leśai-rviśodhayāmi vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇa-yugam ॥ 1 ॥",
+      "translations": {
+        "english": "O Lord! I shall, even though with difficulty, purify my tongue (*rasanām*) by praising a few words of Your noble qualities, O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे सर्वव्यापक प्रभो! भले ही अत्यंत कठिनाई से ही सही, आपके दिव्य गुणों के लेशमात्र वर्णन से मैं अपनी जिह्वा को पवित्र करता हूँ। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 2,
+      "sanskrit_text": "आखण्डल-मद-खण्डन-पण्डित!\nतण्डुप्रिय! चण्डीश! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरण-युगम् ॥ २ ॥",
+      "transliteration": "ākhaṇḍala-mada-khaṇḍana-paṇḍita!\ntaṇḍupriya! caṇḍīśa! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇa-yugam ॥ 2 ॥",
+      "translations": {
+        "english": "O Lord! Who is an expert in humiliating the pride of Indra (God of Heaven / *Ākhaṇḍalaḥ*), Who is fond of Tandu (one of the attendants of Lord Śiva, to whom He taught a new style of dancing, named Tandava), the Consort of Chandi (combined form of Lakshmi, Saraswati and Durga; the ferocious form of Goddess Parvati) O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे देवराज इन्द्र के गर्व को खण्डित करने में चतुर, तण्डु मुनि के प्रिय, और भगवती चण्डी के स्वामी परमेश्वर! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 3,
+      "sanskrit_text": "इभ-चर्माऽम्बर!\nशम्बर-रिपु-वपु-रप-हरणोज्ज्वल-नयन! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरण-युगम् ॥ ३ ॥",
+      "transliteration": "ibha-carmā'mbara!\nśambara-ripu-vapu-rapa-haraṇojjvala-nayana! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇa-yugam ॥ 3 ॥",
+      "translations": {
+        "english": "O Lord! Who wears elephant hides as dress, Who is endowed with bright eyes that destroyed the body of the enemy of Shambara (Cupid) O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे गजचर्म धारण करने वाले, और कामदेव के शरीर को भस्म कर देने वाले देदीप्यमान तीसरे नेत्र से सुशोभित प्रभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 4,
+      "sanskrit_text": "ईश! गिरीश! नरेश! परेश!\nमहेश! बिलेशय-भूषण भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरण-युगम् ॥ ४ ॥",
+      "transliteration": "īśa! girīśa! nareśa! pareśa!\nmaheśa! bileśaya-bhūṣaṇa bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇa-yugam ॥ 4 ॥",
+      "translations": {
+        "english": "O Lord! Who is the Lord of the mountain, the Lord of men, and the Supreme Lord who wears serpents as His ornaments; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे ईशान! हे गिरीश! हे मनुष्यों के स्वामी नरेश! हे परमेश्वर! हे सर्पों को ही आभूषण रूप में धारण करने वाले देवाधिदेव महेश! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "बिलेशय = a snake;"
+    },
+    {
+      "stanza_number": 5,
+      "sanskrit_text": "उमया दिव्य-सुमङ्गल-विग्रहया-\nऽऽलिङ्गित-वामाङ्ग विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ५ ॥",
+      "transliteration": "umayā divya-sumaṅgala-vigrahayā-\n''liṅgita-vāmāṅga vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 5 ॥",
+      "translations": {
+        "english": "O Lord! Whose left limbs are in the pose of embracing Uma (Parvati), the divinely auspicious form; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे दिव्य एवं परम मंगलमयी स्वरूप वाली माँ उमा द्वारा वामांग से आलिंगित परमेश्वर! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 6,
+      "sanskrit_text": "ऊरीकुरु मा-मज्ञ-मनाथं\nदूरीकुरु मे दुरितं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ६ ॥",
+      "transliteration": "ūrīkuru mā-majña-manāthaṃ\ndūrīkuru me duritaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 6 ॥",
+      "translations": {
+        "english": "O Lord! Please accept me, the dullard and orphan, as Yours and drive away my sufferings; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! मुझ अज्ञानी और अनाथ को स्वीकार कीजिए तथा मेरे समस्त पापों व कष्टों को दूर भगा दीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 7,
+      "sanskrit_text": "ऋषि-वर-मानस-हंस!\nचराचर-जनन-स्थिति-लय-कारण! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ७ ॥",
+      "transliteration": "ṛṣi-vara-mānasa-haṃsa!\ncarācara-janana-sthiti-laya-kāraṇa! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 7 ॥",
+      "translations": {
+        "english": "O Lord! Who dwells in the minds of great seers, Who is the cause of creation, sustenance and dissolution of all beings; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे श्रेष्ठ ऋषियों के मानस-सरोवर के राजहंस, तथा समस्त चराचर जगत की उत्पत्ति, स्थिति और प्रलय के मूल कारण प्रभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 8,
+      "sanskrit_text": "ऋक्षाधीश-किरीट! महोक्षा-ऽऽरूढ!\nविधृत-रुद्राक्ष! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ८ ॥",
+      "transliteration": "ṛkṣādhīśa-kirīṭa! mahokṣā-''rūḍha!\nvidhṛta-rudrākṣa! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 8 ॥",
+      "translations": {
+        "english": "O Lord! Who wears crescent moon as a jewel on the crown of His matted locks, Who has a bull as His mount, and Who wears the garland of Rudraksha bead; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे जटाओं के मुकुट पर बालचंद्र को धारण करने वाले, नंदी बैल पर आरूढ़, और रुद्राक्ष की माला से सुशोभित सर्वसमर्थ स्वामी! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "ऋक्षः-ऋक्षम् = a star, constellation, lunar mansion; ऋक्षः = a bear, a species of ape;"
+    },
+    {
+      "stanza_number": 9,
+      "sanskrit_text": "ऌवर्ण-द्वन्द्व-मवृन्त-सुकुसुम-\nमिवाङ्घ्रौ तवार्पयामि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ९ ॥",
+      "transliteration": "ḷvarṇa-dvandva-mavṛnta-sukusuma-\nmivāṅghrau tavārpayāmi vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 9 ॥",
+      "translations": {
+        "english": "O Lord! I offer at Your feet, my two eyes as an offering as flowers; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! ऌ वर्ण के युगल की भाँति अपने दोनों नेत्र मैं आपके पावन चरणों में अर्पित करता हूँ। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 10,
+      "sanskrit_text": "एकं सदिति श्रुत्या त्वमेव\nसदसीत्युपास्महे मृड! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १० ॥",
+      "transliteration": "ekaṃ saditi śrutyā tvameva\nsadasītyupāsmahe mṛḍa! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 10 ॥",
+      "translations": {
+        "english": "O Gracious Lord! I worship You alone as You are ever existent; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे कृपालु शिव! श्रुतियों के एकमेव सत् महावाक्य के अनुसार आप ही एकमात्र नित्य सत्य हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "सद्-असि-इति-उपास्महे;"
+    },
+    {
+      "stanza_number": 11,
+      "sanskrit_text": "ऐक्यं निज-भक्तेभ्यो वितरसि\nविश्वं-भरोऽत्र साक्षी भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ११ ॥",
+      "transliteration": "aikyaṃ nija-bhaktebhyo vitarasi\nviśvaṃ-bharo'tra sākṣī bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 11 ॥",
+      "translations": {
+        "english": "O Lord! You bestow on Your devotees Oneness with You, You sustain the Universe, and You are the witness (consciousness) in everyone, O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विश्वम्भर! आप अपने अनन्य भक्तों को आत्म-साक्षात्कार प्रदान करते हैं और आप ही साक्षी हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 12,
+      "sanskrit_text": "ओमिति तव निर्देष्ट्री माया-\nऽस्माकं मृडोपकन्त्री भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १२ ॥",
+      "transliteration": "omiti tava nirdeṣṭrī māyā-\n'smākaṃ mṛḍopakantrī bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 12 ॥",
+      "translations": {
+        "english": "O Lord! the Pranava (Omkara) which is an indicator of You and which is beyond transcending Maya, is helpful in my understanding of You, O the compassionate One! O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे दयामय! प्रणव ॐ हमारे लिए आपके स्वरूप को जानने में सहायक है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 13,
+      "sanskrit_text": "औदास्यं स्फुटयति विषयेषु\nदिगम्बरता च तवैव विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १३ ॥",
+      "transliteration": "audāsyaṃ sphuṭayati viṣayeṣu\ndigambaratā ca tavaiva vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 13 ॥",
+      "translations": {
+        "english": "O Lord! the fact that You do not have any dress (have directions as Your clothes) only discloses Your detachment to the things of the world; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! आपका दिगम्बर रूप संसार के विषयों के प्रति आपके वैराग्य को प्रकट करता है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 14,
+      "sanskrit_text": "अंतःकरण-विशुद्धिं भक्तिं च\nत्वयि सतीं प्रदेहि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरण-युगम् ॥ १४ ॥",
+      "transliteration": "aṃtaḥkaraṇa-viśuddhiṃ bhaktiṃ ca\ntvayi satīṃ predehi vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇa-yugam ॥ 14 ॥",
+      "translations": {
+        "english": "O Lord! may Your consort (Sati) bestow on me purity of mind and steadfast devotion to You; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! मुझे अंतःकरण की शुद्धि तथा आपके चरणों में अनन्य भक्ति प्रदान कीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 15,
+      "sanskrit_text": "अस्तोपाधि-समस्त-व्यस्तै\nरूपै-र्जगन्मयोऽसि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १५ ॥",
+      "transliteration": "astopādhi-samasta-vyastai\nrūpai-rjaganmayo'si vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 15 ॥",
+      "translations": {
+        "english": "O Lord! You are the form of this vast Universe, both collectively and individually without even any adventitious (Associated by chance and not an integral part) condition; )-t-11.43 O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे सर्वव्यापी प्रभो! समस्त उपाधियों से रहित होकर आप ही संपूर्ण जगत में व्याप्त हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 16,
+      "sanskrit_text": "करुणा-वरुणालय! मयि दास\nउदासस्त्वोचितो न हि भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १६ ॥",
+      "transliteration": "karuṇā-varuṇālaya! mayi dāsa\nudāsastvocito na hi bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 16 ॥",
+      "translations": {
+        "english": "O Lord! You are the ocean of Compassion, and to You it is not proper to be indifferent to me who is Your slave; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे करुणा के सागर! मुझ सेवक के प्रति आपकी उदासीनता उचित नहीं है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 17,
+      "sanskrit_text": "खल-सहवासं विघटय घटय\nसता-मेव सङ्ग-मनिशं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १७ ॥",
+      "transliteration": "khala-sahavāsaṃ vighaṭaya ghaṭaya\nsatā-meva saṅga-maniśaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 17 ॥",
+      "translations": {
+        "english": "O Lord! please keep me away from the company of the wicked, and enable me to associate myself only with good souls; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे दयाल! दुष्टों की संगति दूर कर मुझे निरंतर सत्संग प्रदान कीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 18,
+      "sanskrit_text": "गरलं जगदुपकृतये गिलितं\nभवता समोऽस्ति कोऽत्र विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १८ ॥",
+      "transliteration": "garalaṃ jagadupakṛtaye gilitaṃ\nbhavatā samo'sti ko'tra vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 18 ॥",
+      "translations": {
+        "english": "O Lord! who is here equal to You, Who drank the poison to protect the world from being destroyed; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! जगत कल्याण के लिए आपने हलाहल विष पी लिया; आपके समान कौन है? हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 19,
+      "sanskrit_text": "घन-सार-गौर-गात्र प्रचुर-\nजटा-जूट-बद्ध-गङ्ग! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ १९ ॥",
+      "transliteration": "ghana-sāra-gaura-gātra pracura-\njaṭā-jūṭa-baddha-gaṅga! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 19 ॥",
+      "translations": {
+        "english": "O Lord! Whose body is white like camphor, and Who has fastened the river Ganga in His massive hair-locks; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे कर्पूरगौर शरीर वाले और जटाओं में गंगा धारण करने वाले प्रभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 20,
+      "sanskrit_text": "ज्ञप्तिः सर्व-शरीरेष्वखण्डिता\nया विभाति सा त्वं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २० ॥",
+      "transliteration": "jñaptiḥ sarva-śarīreṣvakhaṇḍitā\nyā vibhāti sā tvaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 20 ॥",
+      "translations": {
+        "english": "O Lord! You are the one unitary knowledge which shines in all bodies; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे शिव! सब शरीरों में जो अखंड ज्ञान प्रकाशित है, वह आप ही हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "ज्ञप्तिः = understanding, intellect; praise;"
+    },
+    {
+      "stanza_number": 21,
+      "sanskrit_text": "चपलं मम हृदय-कपिं\nविषय-द्रुचरं दृढं बधान विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २१ ॥",
+      "transliteration": "capalaṃ mama hṛdaya-kapiṃ\nviṣaya-drucaraṃ dṛḍhaṃ badhāna vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 21 ॥",
+      "translations": {
+        "english": "O Lord! bind fast my fickle mind which is like a monkey hopping in the tree of worldly pleasures; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! सांसारिक विषयों में भटकने वाले मेरे चंचल मन-वानर को बाँध लीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 22,
+      "sanskrit_text": "छाया स्थाणो-रपि तव तापं\nनमतां हरत्यहो! शिव! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २२ ॥",
+      "transliteration": "chāyā sthāṇo-rapi tava tāpaṃ\nnamatāṃ haratyaho! śiva! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 22 ॥",
+      "translations": {
+        "english": "O Lord! the shadow of Sthanu (fossilized tree trunk) removes the worldly sorrow of those who bow to You; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "अहो शिव! आपकी छाया मात्र भक्तों के तापों को हर लेती है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 23,
+      "sanskrit_text": "जय कैलास-निवास!\nप्रमथ-गणा-धीश! भू-सुराऽर्चित! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २३ ॥",
+      "transliteration": "jaya kailāsa-nivāsa!\npramatha-gaṇā-dhīśa! bhū-surā'rcita! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 23 ॥",
+      "translations": {
+        "english": "O Lord! Victory to You, Who lives in Kailasha, Who is the Lord of Pramathaganas (attendants), and the One Who is worshipped by Brahmins; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे कैलाशवासी, प्रमथगणों के स्वामी देवाधिदेव! आपकी जय हो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 24,
+      "sanskrit_text": "झणु-तक-झिङ्किणु-झणु-तत्किट-\nतक-शब्दै-र्नटसि महानट! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २४ ॥",
+      "transliteration": "jhaṇu-taka-jhiṅkiṇu-jhaṇu-tatkiṭa-\ntaka-śabdai-rnaṭasi mahānaṭa! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 24 ॥",
+      "translations": {
+        "english": "O Lord! You are the great dancer who dances making the sounds “jhanu, taka, jhankinu, jhanu, tatkita, takw”. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे महानट! दिव्य वाद्य-ध्वनियों के साथ आप अलौकिक ताण्डव नृत्य करते हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 25,
+      "sanskrit_text": "ज्ञानं विक्षेपावृति-रहितं\nकुरु मे गुरु-स्त्वमेव विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २५ ॥",
+      "transliteration": "jñānaṃ vikṣepāvṛti-rahitaṃ\nkuru me guru-stvameva vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 25 ॥",
+      "translations": {
+        "english": "O Lord! You alone are my Preceptor. Please give me that knowledge which is free from projection / *vikṣepa-rahitam* of the false and concealment of truth; (t-8.28) O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे गुरु! मुझे विक्षेप और आवरण से रहित विशुद्ध ज्ञान दीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 26,
+      "sanskrit_text": "टङ्कारस्तव धनुषो दलयति\nहृदयं द्विषा-मशनि-रिव भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २६ ॥",
+      "transliteration": "ṭaṅkārastava dhanuṣo dalayati\nhṛdayaṃ dviṣā-maśani-riva bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 26 ॥",
+      "translations": {
+        "english": "O Lord! the sound of the bow of Your Trident (Trisul), which is like the thunderbolt, breaks the heart of Your enemies; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! आपके धनुष का टंकार शत्रुओं के हृदय को विदीर्ण कर देता है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 27,
+      "sanskrit_text": "ठाकृतिरिव तव माया बहि-रन्तः\nशून्य-रूपिणी खलु भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २७ ॥",
+      "transliteration": "ṭhākṛtiriva tava māyā bahi-rantaḥ\nśūnya-rūpiṇī khalu bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 27 ॥",
+      "translations": {
+        "english": "O Lord! Your Māyā (illusion) is like a cipher, empty both in and out; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे महादेव! ठ वर्ण के समान आपकी माया भीतर और बाहर से शून्य रूप है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 28,
+      "sanskrit_text": "डम्बर-मम्बुरुहा-मपि\nदलय-त्यनघं त्वदङ्घ्रि-युगलं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २८ ॥",
+      "transliteration": "ḍambara-mamburuhā-mapi\ndalaya-tyanaghaṃ tvadaṅghri-yugalaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 28 ॥",
+      "translations": {
+        "english": "O Lord! Your pure pair of feet excels the fame of red lotus; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे भगवन्! आपके पावन चरण-कमल रक्त कमलों की शोभा को भी जीत लेते हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 29,
+      "sanskrit_text": "ढक्काऽक्ष-सूत्र-शूल-द्रुहिण-\nकरोटी-समुल्लसत्कर! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ २९ ॥",
+      "transliteration": "ḍhakkā'kṣa-sūtra-śūla-druhiṇa-\nkaroṭī-samullasatkara! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 29 ॥",
+      "translations": {
+        "english": "O Lord! Who holds the tiny drum, the Garland of rosary, the Trident and Brahmakalpa in Your hands; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे डमरू, अक्षमाला, त्रिशूल और कपाल धारण करने वाले प्रभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "द्रुहिणः = Brahmā; करोटम्-करोटिः = the skull; cup or a basin;"
+    },
+    {
+      "stanza_number": 30,
+      "sanskrit_text": "णाकार-गर्भिणी चेच्छुभदा ते\nशरण-गति-र्नृणामिह भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३० ॥",
+      "transliteration": "ṇākāra-garbhiṇī cecchubhadā te\nśaraṇa-gati-rnṛṇāmiha bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 30 ॥",
+      "translations": {
+        "english": "O Lord! if the arrows of Yours is not discharged and kept only in “ṇ” shaped quiver, it is only for the good of the people; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे ईश्वर! तरकश में स्थित आपके बाण संसार के कल्याण के लिए ही हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "चेत् शुभदा;"
+    },
+    {
+      "stanza_number": 31,
+      "sanskrit_text": "तव मन्मति-सञ्जपतः सद्यः\nतरति नरो हि भवाब्धिं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३१ ॥",
+      "transliteration": "tava manmati-sañjapataḥ sadyaḥ\ntarati naro hi bhavābdhiṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 31 ॥",
+      "translations": {
+        "english": "O Lord! the man who chants Your mantra, at once, crosses the ocean of worldly existence; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! आपका नाम जपने वाला तत्काल भवसागर से तर जाता है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 32,
+      "sanskrit_text": "थूत्कारस्तस्य मुखे भूयात्\nते नाम नास्ति यस्य विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३२ ॥",
+      "transliteration": "thūtkārastasya mukhe bhūyāt\nte nāma nāsti yasya vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 32 ॥",
+      "translations": {
+        "english": "O Lord! disgust upon him who does not utter Your name; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! उस मुख पर धिक्कार है जिसमें आपका नाम नहीं है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 33,
+      "sanskrit_text": "दयनीयश्च दयालुः कोऽस्ति\nमदन्य-स्त्वदन्य इह वद भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३३ ॥",
+      "transliteration": "dayanīyaśca dayāluḥ ko'sti\nmadanya-stvadanya iha vada bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 33 ॥",
+      "translations": {
+        "english": "O Lord! who is there other than me who is a supplicant? And, who is there other than You who is compassionate? Please tell me. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे शम्भो! मेरे सिवा कौन दीन है और आपके सिवा कौन दयालु है? हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 34,
+      "sanskrit_text": "धर्म-स्थापन-दक्ष! त्र्यक्ष!\nगुरो! दक्ष-यज्ञ-शिक्षक! भो! ।\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३४ ॥",
+      "transliteration": "dharma-sthāpana-dakṣa! tryakṣa!\nguro! dakṣa-yajña-śikṣaka! bho! ।\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 34 ॥",
+      "translations": {
+        "english": "O Lord! Who has the power and efficacy to sustain Dharma, Who has three eyes, Who is the Guru, and Who is the destroyer of Daksha’s sacrifice; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे धर्म-रक्षक, त्रिनेत्र, परम गुरु, और दक्षयज्ञ-विध्वंसक! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 35,
+      "sanskrit_text": "ननु-ताडितोऽसि धनुषा लुब्ध-\nधिया त्वं पुरा नरेण विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३५ ॥",
+      "transliteration": "nanu-tāḍito'si dhanuṣā lubdha-\ndhiyā tvaṃ purā nareṇa vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 35 ॥",
+      "translations": {
+        "english": "O Lord! you were struck, in days of Yore, by a man (Arjuna) out of greed with his bow; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! पूर्वकाल में किरात रूप में अर्जुन ने आप पर प्रहार किया था। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 36,
+      "sanskrit_text": "परिमातुं तव मूर्तिं नाऽल-\nमजस्तत् परात् परोऽसि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३६ ॥",
+      "transliteration": "parimātuṃ tava mūrtiṃ nā'la-\nmajastat parāt paro'si vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 36 ॥",
+      "translations": {
+        "english": "O Lord! neither Brahma nor Vishnu is able to measure Your form, You are far beyond Their reach; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! ब्रह्मा और विष्णु भी आपके स्वरूप को नहीं नाप सके। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 37,
+      "sanskrit_text": "फलमिह नृतया जनुषस्त्वत्\nपद-सेवा सनातनेश! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३७ ॥",
+      "transliteration": "phalamiha nṛtayā januṣastvat\npada-sevā sanātaneśa! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 37 ॥",
+      "translations": {
+        "english": "O Eternal Lord! service to Your feet is the reward of human birth. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे सनातन ईश्वर! मानव जन्म का फल आपके चरणों की सेवा ही है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 38,
+      "sanskrit_text": "बलमारोग्यं चायुस्त्वद्गुण-\nरुचितां चिरं प्रदेहि विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३८ ॥",
+      "transliteration": "balamārogyaṃ cāyustvadguṇa-\nrucitāṃ ciraṃ predehi vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 38 ॥",
+      "translations": {
+        "english": "O Lord! please give me long-lasting strength, health and long life, and a mind attracted to Your great qualities; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! मुझे बल, आरोग्य, दीर्घायु और आपके गुणों में प्रीति दीजिए। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 39,
+      "sanskrit_text": "भगवन्! भर्ग! भयापह\nभूतपते भूति-भूषिताङ्ग! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ३९ ॥",
+      "transliteration": "bhagavan! bharga! bhayāpaha\nbhūtapate bhūti-bhūṣitāṅga! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 39 ॥",
+      "translations": {
+        "english": "O Lord! Bharga! (Sun), You are the destroyer of sins and remover of fear, the Lord of Bhuta-Ganas (shiva’s attendants), and Your limbs are smeared with holy ashes. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे भगवान! हे भय-हारी, भूतपति, और भस्म-भूषित अंगों वाले विभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 40,
+      "sanskrit_text": "महिमा तव नहि माति श्रुतिषु\nहिमानी-धरात्मजा-धव! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४० ॥",
+      "transliteration": "mahimā tava nahi māti śrutiṣu\nhimānī-dharātmajā-dhava! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 40 ॥",
+      "translations": {
+        "english": "O Lord! the Consort of Parvati (the daughter of Himalaya), Your greatness has not been measured by the Vedas; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे पार्वतीपति! आपकी अपार महिमा वेदों में भी नहीं समाती। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "धव = husband, man; lord; shaking;"
+    },
+    {
+      "stanza_number": 41,
+      "sanskrit_text": "यम-नियमादिभि-रङ्गै-र्यमिनो\nहृदये भजन्ति स त्वं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४१ ॥",
+      "transliteration": "yama-niyamādibhi-raṅgai-ryamino\nhṛdaye bhajanti sa tvaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 41 ॥",
+      "translations": {
+        "english": "O Lord! you are meditated upon by the Yogis in their minds by following the Yogic methods of yama and niyama; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे महादेव! यम-नियमादि योग से योगी आपके स्वरूप का ध्यान करते हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 42,
+      "sanskrit_text": "रज्जावहि-रिव शुक्तौ रजतमिव\nत्वयि जगन्ति भान्ति विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४२ ॥",
+      "transliteration": "rajjāvahi-riva śuktau rajatamiva\ntvayi jaganti bhānti vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 42 ॥",
+      "translations": {
+        "english": "O Lord! as serpent appears in the place of rope, and as silver appears in the place of shell, the world merely appears as an entity in You (the world is only an appearance (illusion), the ultimate reality being Brahman; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! जैसे सीप में चाँदी दिखती है, वैसे आप में यह जगत भासित होता है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 43,
+      "sanskrit_text": "लब्ध्वा भवत्प्रसादाच्चक्रं\nविधुरवति लोक-मखिलं भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४३ ॥",
+      "transliteration": "labdhvā bhavatprasādāccakraṃ\nvidhuravati loka-makhilaṃ bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 43 ॥",
+      "translations": {
+        "english": "O Lord! by your grace alone, Lord Vishnu obtained the discus (chakra) to protect the world; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे प्रभो! आपकी कृपा से ही भगवान विष्णु ने चक्र प्राप्त किया। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      },
+      "note": "विधुः = Vishnu, Brahma, the moon, camphor; war;"
+    },
+    {
+      "stanza_number": 44,
+      "sanskrit_text": "वसुधा-तद्धरच्छय-रथ-मौर्वी-\nशर-पराकृताऽसुर भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४४ ॥",
+      "transliteration": "vasudhā-taddharacchaya-ratha-maurvī-\nśara-parākṛtā'sura bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 44 ॥",
+      "translations": {
+        "english": "O Lord! having had the Earth, Adishesha, and Vishnu serve as chariot, bow and arrow respectively, You have defeated the demons; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे असुर-विनाशक! पृथ्वी को रथ बनाकर आपने त्रिपुरासुर का संहार किया। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 45,
+      "sanskrit_text": "शर्व! देव! सर्वोत्तम! सर्वद!\nदुर्वृत्त-गर्व-हरण! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४५ ॥",
+      "transliteration": "śarva! deva! sarvottama! sarvada!\ndurvṛtta-garva-haraṇa! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 45 ॥",
+      "translations": {
+        "english": "O Lord! Who is the destroyer, the foremost among the gods, and all-bestowing, please destroy the pride of those with evil character; O the eternally Auspicious God! the consort of Parvati, the everpeaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे शर्व! हे देव! हे सर्वद! दुष्टों के गर्व का नाश करने वाले विभो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 46,
+      "sanskrit_text": "षड्रिपु-षडूर्मि-षड्विकार-हर!\nसन्मुख! षण्मुख-जनक! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४६ ॥",
+      "transliteration": "ṣaḍripu-ṣaḍūrmi-ṣaḍvikāra-hara!\nsanmukha! ṣaṇmukha-janaka! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 46 ॥",
+      "translations": {
+        "english": "O Lord! Who removes the six enemies (desire, anger, greed, lust, pride & jealousy), the six waves of sensations (thirst, hunger, grief, infatuation, old age & death) and six changes of life (existence, birth, growth, maturity, decay & death), Who is the father of six-faced Kartikeya (Subramanya), and Whose essence is eternity; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे षड्रिपु-षडूर्मि-षड्विकार-हारी, षण्मुख कार्तिकेय के पिता! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 47,
+      "sanskrit_text": "सत्यं ज्ञान-मनन्तं\nब्रह्मेत्येतल्लक्षण-लक्षित भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४७ ॥",
+      "transliteration": "satyaṃ jñāna-manantaṃ\nbrahmetyetallakṣaṇa-lakṣita bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 47 ॥",
+      "translations": {
+        "english": "O Lord! Who is Brahman characterized by truth, knowledge and infinity; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे सत्यं ज्ञानमनन्तं ब्रह्म स्वरूप परमात्मा! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 48,
+      "sanskrit_text": "हाहा-हूहू-मुख-सुर-गायक-\nगीता-पदा-ऽनवद्य! विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४८ ॥",
+      "transliteration": "hāhā-hūhū-mukha-sura-gāyaka-\ngītā-padā-'navadya! vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 48 ॥",
+      "translations": {
+        "english": "O the blemishless Lord! Whose greatness is praised in songs by Ghandharvas headed by Haha and Huhu. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे निष्कलंक विभो! हाहा-हूहू आदि गंधर्व आपके यश का गान करते हैं। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 49,
+      "sanskrit_text": "ळादि-र्न हि प्रयोग-स्तदन्त-\nमिह मङ्गलं सदाऽस्तु विभो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ४९ ॥",
+      "transliteration": "ḷādi-rna hi prayoga-stadanta-\nmiha maṅgalaṃ sadā'stu vibho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 49 ॥",
+      "translations": {
+        "english": "There is no usage in language of a word beginning with “la”, but the word ending in “la” viz. mangala (auspiciousness) be for all. O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे विभो! ळ वर्ण से कोई शब्द शुरू नहीं होता, पर इसका अंत सदा मंगलकारी हो! हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    },
+    {
+      "stanza_number": 50,
+      "sanskrit_text": "क्षणमिव दिवसान्नेष्यति\nत्वत्पद-सेवा-क्षणोत्सुकः शिव! भो!\nसाम्ब! सदाशिव! शम्भो! शङ्कर!\nशरणं मे तव चरणयुगम् ॥ ५० ॥",
+      "transliteration": "kṣaṇamiva divasānneṣyati\ntvatpada-sevā-kṣaṇotsukaḥ śiva! bho!\nsāmba! sadāśiva! śambho! śaṅkara!\nśaraṇaṃ me tava caraṇayugam ॥ 50 ॥",
+      "translations": {
+        "english": "O Lord! may the person who is anxious to worship Your feet spends many days as a moment; O the eternally Auspicious God! the consort of Parvati, the ever peaceful One! and the source of happiness! Your pair of feet is my refuge.",
+        "hindi": "हे शिव! आपके चरणों का सेवक दिनों को भी क्षण के समान बिता देता है। हे साम्ब सदाशिव! हे शम्भो! हे शङ्कर! आपके युगल चरण ही मेरी एकमात्र शरण हैं।"
+      }
+    }
+  ]
+}
