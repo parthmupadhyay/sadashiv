@@ -1,0 +1,58 @@
+name: CI Checks
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Lint, Types & Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate Stotra JSON Files
+        run: |
+          node -e '
+            const fs = require("fs");
+            const path = require("path");
+            const dir = path.join(process.cwd(), "src/data/stotras");
+            if (!fs.existsSync(dir)) process.exit(0);
+            const files = fs.readdirSync(dir).filter(f => f.endsWith(".json"));
+            for (const file of files) {
+              const fullPath = path.join(dir, file);
+              const data = JSON.parse(fs.readFileSync(fullPath, "utf8"));
+              if (!data.id || !data.title_sanskrit || !Array.isArray(data.stanzas)) {
+                throw new Error(`Invalid schema in ${file}`);
+              }
+            }
+            console.log(`✓ All ${files.length} stotra JSON files passed schema validation.`);
+          '
+
+      - name: TypeScript Check
+        run: npx tsc --noEmit
+
+      - name: Next.js Lint
+        run: npm run lint
+
+      - name: Next.js Production Build
+        run: npm run build
