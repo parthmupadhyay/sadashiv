@@ -20,6 +20,13 @@ export const metadata: Metadata = {
   description: "Explore sacred Sanskrit stotras with word-by-word meanings, transliterations, and translations.",
 };
 
+export const viewport = {
+  themeColor: "#0c0a09",
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -27,9 +34,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${devanagari.variable} ${cormorant.variable}`}>
-      <body className="min-h-screen bg-neutral-950 text-neutral-100 antialiased relative overflow-x-hidden selection:bg-amber-500/20 selection:text-amber-200">
-        {/* Ambient background glow */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] bg-gradient-to-b from-amber-500/10 via-amber-900/5 to-transparent blur-[120px] pointer-events-none -z-10" />
+      <body className="min-h-screen bg-neutral-950 text-neutral-100 antialiased relative selection:bg-amber-500/20 selection:text-amber-200 w-full overflow-x-hidden flex flex-col">
+        {/* Ambient background glow constrained to avoid horizontal scroll */}
+        <div className="absolute top-0 left-0 w-full h-[500px] flex justify-center overflow-hidden pointer-events-none -z-10">
+          <div className="w-[1000px] h-[500px] bg-gradient-to-b from-amber-500/10 via-amber-900/5 to-transparent blur-[120px]" />
+        </div>
         {children}
       </body>
     </html>
