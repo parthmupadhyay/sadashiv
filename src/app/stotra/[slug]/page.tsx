@@ -17,8 +17,8 @@ async function getStotra(slug: string): Promise<Stotra | null> {
     const filePath = path.join(process.cwd(), 'src/data/stotras', `${slug}.json`);
     const fileContents = await fs.readFile(filePath, 'utf8');
     return JSON.parse(fileContents);
-  } catch (error: any) {
-    if (error.code !== 'ENOENT') {
+  } catch (error) {
+    if ((error as { code?: string }).code !== 'ENOENT') {
       console.error('Error reading stotra:', error);
     }
     return null;
