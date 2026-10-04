@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import YouTube, { YouTubeEvent, YouTubePlayer } from 'react-youtube';
 import StanzaViewer from '@/components/StanzaViewer';
 import { Stotra } from '@/types/stotra';
@@ -86,7 +86,7 @@ export default function StotraReader({ stotra }: StotraReaderProps) {
         </div>
       )}
 
-      <div className="space-y-8 pb-32">
+      <div className="space-y-8 pb-36 sm:pb-32">
         {stotra.stanzas.map((stanza) => (
           <StanzaViewer
             key={stanza.stanza_number}
