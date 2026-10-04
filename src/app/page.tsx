@@ -44,7 +44,7 @@ export default async function Home() {
   const stotras = await getStotras();
 
   return (
-    <div className="min-h-screen text-neutral-100 p-6 md:p-12 relative">
+    <div className="min-h-screen text-neutral-100 p-4 md:p-12 relative">
       <main className="max-w-5xl mx-auto py-12">
         {/* Hero Section */}
         <div className="mb-16 text-center max-w-2xl mx-auto relative">
