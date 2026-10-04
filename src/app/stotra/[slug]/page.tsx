@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { promises as fs } from 'fs';
 import path from 'path';
-import StanzaViewer from '@/components/StanzaViewer';
+import StotraReader from '@/components/StotraReader';
 import { Stotra } from '@/types/stotra';
 import { Card } from '@/components/ui/Card';
 import { Badge } from '@/components/ui/Badge';
@@ -65,12 +65,8 @@ export default async function StotraPage({ params }: PageProps) {
           </p>
         </Card>
 
-        {/* Stanzas List */}
-        <div className="space-y-8">
-          {stotra.stanzas.map((stanza) => (
-            <StanzaViewer key={stanza.stanza_number} stanza={stanza} />
-          ))}
-        </div>
+        {/* Stanzas & Audio Player */}
+        <StotraReader stotra={stotra} />
       </main>
     </div>
   );
