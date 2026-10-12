@@ -5,7 +5,6 @@
   "title_english": "Hymn of the Five-Syllabled Mantra to Shiva",
   "author": "Adi Shankaracharya",
   "description": "A sacred devotional hymn composed by Adi Shankaracharya honoring each syllable of the five-syllable Panchakshari mantra: Na-Ma-Śi-Vā-Ya.",
-  "youtube_url": "https://www.youtube.com/watch?v=IjlNhw29UQ0",
   "total_stanzas": 5,
   "stanzas": [
     {
@@ -223,5 +222,10 @@
         "end": 162
       }
     }
-  ]
+  ],
+  "audio": {
+    "provider": "youtube",
+    "youtube_id": "IjlNhw29UQ0",
+    "title": "Sacred Shiva Panchakshara Stotram Chanting"
+  }
 }
