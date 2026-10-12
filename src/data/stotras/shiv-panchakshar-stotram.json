@@ -1,0 +1,227 @@
+{
+  "id": "shiv-panchakshar-stotra",
+  "title_sanskrit": "शिवपञ्चाक्षरस्तोत्रम्",
+  "title_transliteration": "Shiva Panchakshara Stotram",
+  "title_english": "Hymn of the Five-Syllabled Mantra to Shiva",
+  "author": "Adi Shankaracharya",
+  "description": "A sacred devotional hymn composed by Adi Shankaracharya honoring each syllable of the five-syllable Panchakshari mantra: Na-Ma-Śi-Vā-Ya.",
+  "youtube_url": "https://www.youtube.com/watch?v=IjlNhw29UQ0",
+  "total_stanzas": 5,
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "नागेन्द्रहाराय त्रिलोचनाय\nभस्माङ्गरागाय महेश्वराय।\nनित्याय शुद्धाय दिगम्बराय\nतस्मै नकाराय नमः शिवाय॥१॥",
+      "transliteration": "nāgendra-hārāya trilocanāya\nbhasmāṅga-rāgāya maheśvarāya |\nnityāya śuddhāya digambarāya\ntasmai na-kārāya namaḥ śivāya ||1||",
+      "translations": {
+        "english": "Salutations to the mighty Lord Maheswara, who wears the king of serpents as a garland, has three eyes, and is smeared with sacred ashes. He is eternal, pure, and clothed in cosmic space (sky-clad). Salutations to Him who is represented by the syllable 'Na', salutations to Shiva.",
+        "hindi": "जो सर्पराज का हार पहने हैं, त्रिनेत्र हैं, भस्म का अंगराग लगाए हैं और महेश्वर हैं; जो नित्य, शुद्ध और दिगंबर हैं, उस 'न' कार स्वरूप भगवान शिव को नमस्कार है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "नागेन्द्रहाराय त्रिलोचनाय",
+          "transliteration_line": "nāgendra-hārāya trilocanāya",
+          "meaning_english": "Adorned with the king of serpents as a necklace, having three eyes",
+          "meaning_hindi": "नागराज को हार के रूप में धारण करने वाले, तीन नेत्रों वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "भस्माङ्गरागाय महेश्वराय।",
+          "transliteration_line": "bhasmāṅga-rāgāya maheśvarāya",
+          "meaning_english": "Whose body is smeared with sacred holy ash, the Great Lord",
+          "meaning_hindi": "अंगों पर भस्म लगाने वाले, महेश्वर"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "नित्याय शुद्धाय दिगम्बराय",
+          "transliteration_line": "nityāya śuddhāya digambarāya",
+          "meaning_english": "Eternal, ever pure, clothed in cosmic directions",
+          "meaning_hindi": "नित्य, परम पवित्र, दिशाओं को ही वस्त्र रूप में धारण करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तस्मै नकाराय नमः शिवाय॥१॥",
+          "transliteration_line": "tasmai na-kārāya namaḥ śivāya",
+          "meaning_english": "To Him embodied by the first syllable 'Na', salutations to Shiva",
+          "meaning_hindi": "उस 'न' कार स्वरूप भगवान शिव को मेरा नमन है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 21,
+        "end": 47
+      }
+    },
+    {
+      "stanza_number": 2,
+      "sanskrit_text": "मन्दाकिनीसलिलचन्दनचर्चिताय\nनन्दीश्वरप्रमथनाथमहेश्वराय।\nमन्दारपुष्पबहुपुष्पसुपूजिताय\nतस्मै मकाराय नमः शिवाय॥२॥",
+      "transliteration": "mandākinī-salila-candana-carcitāya\nnandīśvara-pramatha-nātha-maheśvarāya |\nmandāra-puṣpa-bahu-puṣpa-supūjitāya\ntasmai ma-kārāya namaḥ śivāya ||2||",
+      "translations": {
+        "english": "Salutations to Him who is anointed with sandal paste mixed with the waters of the heavenly Mandakini river, who is the Lord of Nandi and the Pramatha attendants. He is worshipped with Mandara and various other celestial blossoms. Salutations to Him who is represented by the syllable 'Ma', salutations to Shiva.",
+        "hindi": "जो आकाशगंगा मन्दाकिनी के जल और चंदन से सुशोभित हैं, जो नंदीश्वर और प्रमथगणों के स्वामी महेश्वर हैं; जो मंदार और अनेक दिव्य पुष्पों से पूजित हैं, उस 'म' कार स्वरूप भगवान शिव को नमस्कार है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "मन्दाकिनीसलिलचन्दनचर्चिताय",
+          "transliteration_line": "mandākinī-salila-candana-carcitāya",
+          "meaning_english": "Anointed with the holy waters of Mandakini and fragrant sandal paste",
+          "meaning_hindi": "मंदाकिनी के पवित्र जल और चंदन से चर्चित"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "नन्दीश्वरप्रमथनाथमहेश्वराय।",
+          "transliteration_line": "nandīśvara-pramatha-nātha-maheśvarāya",
+          "meaning_english": "The supreme master of Nandi and the guardian of Pramatha ganas",
+          "meaning_hindi": "नंदीश्वर तथा समस्त गणों के स्वामी, महेश्वर"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "मन्दारपुष्पबहुपुष्पसुपूजिताय",
+          "transliteration_line": "mandāra-puṣpa-bahu-puṣpa-supūjitāya",
+          "meaning_english": "Adored and worshipped with Mandara and numerous fragrant flowers",
+          "meaning_hindi": "मंदार और विविध प्रकार के सुंदर पुष्पों से पूजित"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तस्मै मकाराय नमः शिवाय॥२॥",
+          "transliteration_line": "tasmai ma-kārāya namaḥ śivāya",
+          "meaning_english": "To Him embodied by the sacred syllable 'Ma', salutations to Shiva",
+          "meaning_hindi": "उस 'म' कार स्वरूप भगवान शिव को नमन है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 47,
+        "end": 73
+      }
+    },
+    {
+      "stanza_number": 3,
+      "sanskrit_text": "शिवाय गौरीवदनाब्जवृन्द-\nसूर्याय दक्षाध्वरनाशकाय।\nश्रीनीलकण्ठाय वृषध्वजाय\nतस्मै शिकाराय नमः शिवाय॥३॥",
+      "transliteration": "śivāya gaurī-vadanābja-vṛnda-\nsūryāya dakṣādhvara-nāśakāya |\nśrī-nīlakaṇṭhāya vṛṣadhvajāya\ntasmai śi-kārāya namaḥ śivāya ||3||",
+      "translations": {
+        "english": "Salutations to the auspicious Shiva, who acts like the rising sun causing the lotus face of Mother Gauri to blossom, who destroyed Daksha's sacrificial rite. He possesses a glorious blue throat and has the bull emblem on His flag. Salutations to Him who is represented by the syllable 'Śi', salutations to Shiva.",
+        "hindi": "जो कल्याणकारी हैं, जो माता पार्वती के मुख-कमल को विकसित करने वाले सूर्य के समान हैं, जिन्होंने दक्ष के यज्ञ का विध्वंस किया; जिनका कंठ नीला है और जिनकी ध्वजा पर बैल (वृषभ) का चिह्न है, उस 'शि' कार स्वरूप भगवान शिव को नमस्कार है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "शिवाय गौरीवदनाब्जवृन्द-",
+          "transliteration_line": "śivāya gaurī-vadanābja-vṛnda-",
+          "meaning_english": "Auspicious Shiva, who blooms the lotus face of Parvati like the sun",
+          "meaning_hindi": "कल्याण स्वरूप, माता पार्वती के मुख-कमल को खिलाने वाले सूर्य"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "सूर्याय दक्षाध्वरनाशकाय।",
+          "transliteration_line": "sūryāya dakṣādhvara-nāśakāya",
+          "meaning_english": "Radiant as the sun, destroyer of the proud sacrifice of King Daksha",
+          "meaning_hindi": "सूर्य स्वरूप और दक्ष के यज्ञ का नाश करने वाले"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "श्रीनीलकण्ठाय वृषध्वजाय",
+          "transliteration_line": "śrī-nīlakaṇṭhāya vṛṣadhvajāya",
+          "meaning_english": "Having a resplendent blue throat, bearing the bull on His flag",
+          "meaning_hindi": "नीले कंठ वाले, वृषभ की ध्वजा धारण करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तस्मै शिकाराय नमः शिवाय॥३॥",
+          "transliteration_line": "tasmai śi-kārāya namaḥ śivāya",
+          "meaning_english": "To Him embodied by the auspicious syllable 'Śi', salutations to Shiva",
+          "meaning_hindi": "उस 'शि' कार स्वरूप भगवान शिव को नमन है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 73,
+        "end": 99
+      }
+    },
+    {
+      "stanza_number": 4,
+      "sanskrit_text": "वसिष्ठकुम्भोद्भवगौतमार्य-\nमुनीन्द्रदेवार्चितशेखराय।\nचन्द्रार्कवैश्वानरलोचनाय\nतस्मै वकाराय नमः शिवाय॥४॥",
+      "transliteration": "vasiṣṭha-kumbhodbhava-gautamārya-\nmunīndra-devārcita-śekharāya |\ncandrārka-vaiśvānara-locanāya\ntasmai va-kārāya namaḥ śivāya ||4||",
+      "translations": {
+        "english": "Salutations to Him whose crown is worshipped by revered sages such as Vashistha, Agastya (Kumbhodbhava), Gautama, and by celestial beings; whose three eyes are the moon, sun, and cosmic fire. Salutations to Him who is represented by the syllable 'Vā', salutations to Shiva.",
+        "hindi": "जिनके मस्तक की पूजा वशिष्ठ, अगस्त्य और गौतम जैसे श्रेष्ठ मुनियों तथा देवताओं द्वारा की जाती है; जिनके तीन नेत्र चंद्र, सूर्य और अग्नि हैं, उस 'व' कार स्वरूप भगवान शिव को नमस्कार है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "वसिष्ठकुम्भोद्भवगौतमार्य-",
+          "transliteration_line": "vasiṣṭha-kumbhodbhava-gautamārya-",
+          "meaning_english": "Revered by the exalted sages Vashistha, Agastya, and Gautama",
+          "meaning_hindi": "वशिष्ठ, अगस्त्य और गौतम जैसे महान ऋषियों द्वारा पूज्य"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "मुनीन्द्रदेवार्चितशेखराय।",
+          "transliteration_line": "munīndra-devārcita-śekharāya",
+          "meaning_english": "Whose sacred crown is revered by celestial beings and sage kings",
+          "meaning_hindi": "जिनके मस्तक की अर्चना मुनींद्रों और देवों द्वारा की जाती है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "चन्द्रार्कवैश्वानरलोचनाय",
+          "transliteration_line": "candrārka-vaiśvānara-locanāya",
+          "meaning_english": "Whose three eyes are the moon, the sun, and the fire of dissolution",
+          "meaning_hindi": "चंद्रमा, सूर्य और अग्नि रूपी तीन नेत्रों वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तस्मै वकाराय नमः शिवाय॥४॥",
+          "transliteration_line": "tasmai va-kārāya namaḥ śivāya",
+          "meaning_english": "To Him embodied by the radiant syllable 'Vā', salutations to Shiva",
+          "meaning_hindi": "उस 'व' कार स्वरूप भगवान शिव को नमन है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 99,
+        "end": 125
+      }
+    },
+    {
+      "stanza_number": 5,
+      "sanskrit_text": "यक्षस्वरूपाय जटाधराय\nपिनाकहस्ताय सनातनाय।\nदिव्याय देवाय दिगम्बराय\nतस्मै यकाराय नमः शिवाय॥५॥",
+      "transliteration": "yakṣa-svarūpāya jaṭādharāya\npināka-hastāya sanātanāya |\ndivyāya devāya digambarāya\ntasmai ya-kārāya namaḥ śivāya ||5||",
+      "translations": {
+        "english": "Salutations to Him who assumed the mysterious form of a Yaksha to enlighten the gods, who bears matted locks, holds the Pinaka bow in His hand, and is eternal. He is the luminous, divine, sky-clad Lord. Salutations to Him who is represented by the syllable 'Ya', salutations to Shiva.",
+        "hindi": "जो यक्ष स्वरूप धारण करने वाले हैं, जटाधारी हैं, जिनके हाथ में पिनाक धनुष है और जो सनातन हैं; जो दिव्य देव तथा दिगंबर हैं, उस 'य' कार स्वरूप भगवान शिव को नमस्कार है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "यक्षस्वरूपाय जटाधराय",
+          "transliteration_line": "yakṣa-svarūpāya jaṭādharāya",
+          "meaning_english": "Assuming the mystic Yaksha form, bearer of matted tresses",
+          "meaning_hindi": "यक्ष स्वरूप धारण करने वाले और जटाओं को संजोए रखने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "पिनाकहस्ताय सनातनाय।",
+          "transliteration_line": "pināka-hastāya sanātanāya",
+          "meaning_english": "Holding the Pinaka bow in hand, ageless and primeval",
+          "meaning_hindi": "हाथ में पिनाक धनुष लिए हुए और अनादि-अनंत सनातन"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "दिव्याय देवाय दिगम्बराय",
+          "transliteration_line": "divyāya devāya digambarāya",
+          "meaning_english": "Luminous celestial God, clothed in boundless space",
+          "meaning_hindi": "दिव्य ज्योतिर्मय देव, दिशाओं को वस्त्र मानने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तस्मै यकाराय नमः शिवाय॥५॥",
+          "transliteration_line": "tasmai ya-kārāya namaḥ śivāya",
+          "meaning_english": "To Him embodied by the transcendent syllable 'Ya', salutations to Shiva",
+          "meaning_hindi": "उस 'य' कार स्वरूप भगवान शिव को नमन है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 125,
+        "end": 162
+      }
+    }
+  ]
+}
