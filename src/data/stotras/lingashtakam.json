@@ -1,0 +1,403 @@
+{
+  "id": "lingashtakam",
+  "title_sanskrit": "श्रीलिङ्गाष्टकम्",
+  "title_transliteration": "Shri Lingashtakam",
+  "title_english": "Eightfold Hymn of Praise to the Shiva Lingam",
+  "author": "Adi Shankaracharya",
+  "description": "An octet composed by Adi Shankaracharya glorifying the divine Shiva Lingam, the unmanifest source of creation, wisdom, and liberation.",
+  "total_stanzas": 9,
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "ब्रह्ममुरारिसुरार्चितलिङ्गं\nनिर्मलभासितशोभितलिङ्गम्।\nजन्मजदुःखविनाशकलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥१॥",
+      "transliteration": "brahma-murāri-surārcita-liṅgaṁ\nnirmala-bhāsita-śobhita-liṅgam |\njanmaja-duḥkha-vināśaka-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||1||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, which is worshipped by Brahma, Vishnu, and all the gods, adorned with pure and radiant effulgence, and which destroys the sorrows born of worldly births.",
+        "hindi": "ब्रह्मा, श्रीहरि विष्णु और देवताओं द्वारा पूजित, निर्मल कांति से सुशोभित और जन्म-मरण के चक्र से उत्पन्न दुखों का नाश करने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "ब्रह्ममुरारिसुरार्चितलिङ्गं",
+          "transliteration_line": "brahma-murāri-surārcita-liṅgaṁ",
+          "meaning_english": "The Lingam reverently worshipped by Brahma, Vishnu (Murari), and the deities",
+          "meaning_hindi": "ब्रह्मा, विष्णु और समस्त देवताओं द्वारा पूजित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "निर्मलभासितशोभितलिङ्गम्।",
+          "transliteration_line": "nirmala-bhāsita-śobhita-liṅgam",
+          "meaning_english": "Adorned with spotless purity and radiant luminescence",
+          "meaning_hindi": "निर्मल और देदीप्यमान प्रकाश से सुशोभित लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "जन्मजदुःखविनाशकलिङ्गं",
+          "transliteration_line": "janmaja-duḥkha-vināśaka-liṅgaṁ",
+          "meaning_english": "The destroyer of all misery and suffering born of worldly incarnation",
+          "meaning_hindi": "जन्म-जन्मांतर के दुखों का विनाश करने वाला लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥१॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that eternal Sadashiva Lingam, I bow down in adoration",
+          "meaning_hindi": "उस नित्य कल्याणकारी सदाशिव लिंग को मैं प्रणाम करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 0,
+        "end": 18
+      }
+    },
+    {
+      "stanza_number": 2,
+      "sanskrit_text": "देवमुनिप्रवरार्चितलिङ्गं\nकामदहं करुणाकरलिङ्गम्।\nरावणदर्पविनाशनलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥२॥",
+      "transliteration": "deva-muni-pravarārcita-liṅgaṁ\nkāma-dahaṁ karuṇākara-liṅgam |\nrāvaṇa-darpa-vināśana-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||2||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, worshipped by foremost gods and great sages, the burner of Kamadeva (desire), the compassionate fountainhead of mercy, and the destroyer of Ravana's ego and arrogance.",
+        "hindi": "श्रेष्ठ देवों और महर्षियों द्वारा पूजित, कामदेव को भस्म करने वाले, करुणा की खान और रावण के अहंकार का नाश करने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "देवमुनिप्रवरार्चितलिङ्गं",
+          "transliteration_line": "deva-muni-pravarārcita-liṅgaṁ",
+          "meaning_english": "Worshipped by the most exalted among deities and ascetics",
+          "meaning_hindi": "श्रेष्ठ देवताओं और मुनीश्वरों द्वारा पूजित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "कामदहं करुणाकरलिङ्गम्।",
+          "transliteration_line": "kāma-dahaṁ karuṇākara-liṅgam",
+          "meaning_english": "The burner of cupid (lust), the abundant ocean of compassion",
+          "meaning_hindi": "कामदेव को भस्म करने वाला, करुणा का सागर लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "रावणदर्पविनाशनलिङ्गं",
+          "transliteration_line": "rāvaṇa-darpa-vināśana-liṅgaṁ",
+          "meaning_english": "The destroyer of the haughtiness and pride of demon king Ravana",
+          "meaning_hindi": "रावण के गर्व और अहंकार को चूर-चूर करने वाला लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥२॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस परम पावन सदाशिव लिंग को मैं नमन करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 18,
+        "end": 35
+      }
+    },
+    {
+      "stanza_number": 3,
+      "sanskrit_text": "सर्वसुगन्धिसुलेपितलिङ्गं\nबुद्धिविवर्धनकारणलिङ्गम्।\nसिद्धसुरासुरवन्दितलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥३॥",
+      "transliteration": "sarva-sugandhi-sulepita-liṅgaṁ\nbuddhi-vivardhana-kāraṇa-liṅgam |\nsiddha-surāsura-vandita-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||3||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, which is anointed with all sweet fragrances, the cause of the blossoming of intellect and wisdom, and reverenced alike by Siddhas, gods, and Asuras.",
+        "hindi": "सभी प्रकार के दिव्य सुगंधित पदार्थों से लेपित, बुद्धि और ज्ञान के संवर्धन के कारण स्वरूप, तथा सिद्धों, देवताओं और असुरों द्वारा वंदित उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "सर्वसुगन्धिसुलेपितलिङ्गं",
+          "transliteration_line": "sarva-sugandhi-sulepita-liṅgaṁ",
+          "meaning_english": "Thoroughly anointed with every divine, sweet-smelling perfume",
+          "meaning_hindi": "समस्त प्रकार के सुगंधित द्रव्यों से सुलेपित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "बुद्धिविवर्धनकारणलिङ्गम्।",
+          "transliteration_line": "buddhi-vivardhana-kāraṇa-liṅgam",
+          "meaning_english": "The foundational cause for the expansion and awakening of intellect",
+          "meaning_hindi": "बुद्धि और विवेक को बढ़ाने वाला मूल कारण लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "सिद्धसुरासुरवन्दितलिङ्गं",
+          "transliteration_line": "siddha-surāsura-vandita-liṅgaṁ",
+          "meaning_english": "Revered and saluted by perfected beings (Siddhas), celestials, and demons",
+          "meaning_hindi": "सिद्ध पुरुषों, देवताओं तथा असुरों द्वारा समान रूप से वंदनीय लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥३॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस सदाशिव लिंग के चरणों में मैं शीश झुकाता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 35,
+        "end": 52
+      }
+    },
+    {
+      "stanza_number": 4,
+      "sanskrit_text": "कनकमहामणिभूषितलिङ्गं\nफणिपतिवेष्टितशोभितलिङ्गम्।\nदक्षसुयज्ञविनाशनलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥४॥",
+      "transliteration": "kanaka-mahāmaṇi-bhūṣita-liṅgaṁ\nphaṇipati-veṣṭita-śobhita-liṅgam |\ndakṣa-suyajña-vināśana-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||4||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, embellished with golden ornaments and precious gems, wrapped around gracefully by the serpent king Vasuki, and the destroyer of Daksha's grand sacrificial rite.",
+        "hindi": "सोने और बहुमूल्य मणियों से अलंकृत, सर्पराज वासुकि के वेष्टन से सुशोभित, और प्रजापति दक्ष के महायज्ञ का विध्वंस करने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "कनकमहामणिभूषितलिङ्गं",
+          "transliteration_line": "kanaka-mahāmaṇi-bhūṣita-liṅgaṁ",
+          "meaning_english": "Decorated with lustrous gold and rare supreme jewels",
+          "meaning_hindi": "सुवर्ण और बहुमूल्य रत्नों से विभूषित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "फणिपतिवेष्टितशोभितलिङ्गम्।",
+          "transliteration_line": "phaṇipati-veṣṭita-śobhita-liṅgam",
+          "meaning_english": "Gleaming splendidly, encircled by the serpent sovereign",
+          "meaning_hindi": "सर्पराज के लिपटे होने से अत्यंत शोभायमान लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "दक्षसुयज्ञविनाशनलिङ्गं",
+          "transliteration_line": "dakṣa-suyajña-vināśana-liṅgaṁ",
+          "meaning_english": "The destroyer of the haughty sacrifice performed by Daksha",
+          "meaning_hindi": "दक्ष प्रजापति के विशाल यज्ञ का नाश करने वाला लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥४॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस सदाशिव लिंग को मैं प्रणाम करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 52,
+        "end": 69
+      }
+    },
+    {
+      "stanza_number": 5,
+      "sanskrit_text": "कुङ्कुमचन्दनलेपितलिङ्गं\nपङ्कजहारसुशोभितलिङ्गम्।\nसञ्चितपापविनाशनलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥५॥",
+      "transliteration": "kuṅkuma-candana-lepita-liṅgaṁ\npaṅkaja-hāra-suśobhita-liṅgam |\nsañcita-pāpa-vināśana-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||5||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, anointed with auspicious vermilion (kumkum) and sandalwood paste, gracefully adorned with garlands of fresh lotuses, and the destroyer of sins accumulated across lifetimes.",
+        "hindi": "कुमकुम और शीतल चंदन से लेपित, कमल के सुंदर हारों से सुशोभित, और जन्म-जन्मांतरों के संचित पापों का शमन करने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "कुङ्कुमचन्दनलेपितलिङ्गं",
+          "transliteration_line": "kuṅkuma-candana-lepita-liṅgaṁ",
+          "meaning_english": "Smeared with auspicious red kumkum and cooling sandalwood paste",
+          "meaning_hindi": "कुमकुम और चंदन के लेप से सुसज्जित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "पङ्कजहारसुशोभितलिङ्गम्।",
+          "transliteration_line": "paṅkaja-hāra-suśobhita-liṅgam",
+          "meaning_english": "Exquisitely ornamented with beautiful garlands of lotuses",
+          "meaning_hindi": "कमल पुष्पों की सुंदर मालाओं से शोभित लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "सञ्चितपापविनाशनलिङ्गं",
+          "transliteration_line": "sañcita-pāpa-vināśana-liṅgaṁ",
+          "meaning_english": "The destroyer of the stored (sanchita) sins of past lives",
+          "meaning_hindi": "अनेक जन्मों के संचित पापों का विनाशक लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥५॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस सदाशिव लिंग को मैं नमन करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 69,
+        "end": 86
+      }
+    },
+    {
+      "stanza_number": 6,
+      "sanskrit_text": "देवगणार्चितसेवितलिङ्गं\nभावैर्भक्तिभिरेव च लिङ्गम्।\nदिनकरकोटिप्रभाकरलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥६॥",
+      "transliteration": "deva-gaṇārcita-sevita-liṅgaṁ\nbhāvair-bhaktibhir-eva ca liṅgam |\ndinakara-koṭi-prabhākara-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||6||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, worshipped and served by the hosts of celestials with genuine inner emotion and pure devotion, blazing with the effulgence of ten million suns.",
+        "hindi": "समस्त देवगणों द्वारा हृदय के विशुद्ध भाव और भक्ति से नित्य सेवित तथा पूजित, एवं करोड़ों सूर्यों के समान दिव्य तेज से चमकने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "देवगणार्चितसेवितलिङ्गं",
+          "transliteration_line": "deva-gaṇārcita-sevita-liṅgaṁ",
+          "meaning_english": "Worshipped and faithfully served by assemblies of divine beings",
+          "meaning_hindi": "देवताओं के समूहों द्वारा पूजित और सेवित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "भावैर्भक्तिभिरेव च लिङ्गम्।",
+          "transliteration_line": "bhāvair-bhaktibhir-eva ca liṅgam",
+          "meaning_english": "Approached with profound emotional reverence and steadfast devotion",
+          "meaning_hindi": "सच्चे भावों और अनन्य भक्ति द्वारा ही प्राप्त लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "दिनकरकोटिप्रभाकरलिङ्गं",
+          "transliteration_line": "dinakara-koṭi-prabhākara-liṅgaṁ",
+          "meaning_english": "Radiating the dazzling brilliance and light of ten million suns",
+          "meaning_hindi": "करोड़ों सूर्यों के समान परम तेजस्वी लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥६॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस परम पावन सदाशिव लिंग को मैं प्रणाम करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 86,
+        "end": 103
+      }
+    },
+    {
+      "stanza_number": 7,
+      "sanskrit_text": "अष्टदलोपरिवेष्टितलिङ्गं\nसर्वसमुद्भवकारणलिङ्गम्।\nअष्टदरिद्रविनाशनलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥७॥",
+      "transliteration": "aṣṭa-dalopari-veṣṭita-liṅgaṁ\nsarva-samudbhava-kāraṇa-liṅgam |\naṣṭa-daridra-vināśana-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||7||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, resting upon an eight-petaled lotus, the primeval origin of all creation, and the annihilator of the eight kinds of poverty and lack.",
+        "hindi": "अष्टदल कमल पर विराजमान, संपूर्ण सृष्टि की उत्पत्ति के मूल कारण, और आठों प्रकार की दरिद्रता का समूल नाश करने वाले उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "अष्टदलोपरिवेष्टितलिङ्गं",
+          "transliteration_line": "aṣṭa-dalopari-veṣṭita-liṅgaṁ",
+          "meaning_english": "Enshrined and surrounded upon an eight-petaled mystic lotus base",
+          "meaning_hindi": "आठ पंखुड़ियों वाले कमल के ऊपर सुशोभित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "सर्वसमुद्भवकारणलिङ्गम्।",
+          "transliteration_line": "sarva-samudbhava-kāraṇa-liṅgam",
+          "meaning_english": "The ultimate seed and primeval cause of all existence and manifestation",
+          "meaning_hindi": "समस्त सृष्टि की उत्पत्ति का मूल कारण लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "अष्टदरिद्रविनाशनलिङ्गं",
+          "transliteration_line": "aṣṭa-daridra-vināśana-liṅgaṁ",
+          "meaning_english": "The total destroyer of all eight forms of poverty, affliction, and misfortune",
+          "meaning_hindi": "आठों प्रकार के दारिद्र्य का नाश करने वाला लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥७॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस सदाशिव लिंग को मैं शीश नवाता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 103,
+        "end": 121
+      }
+    },
+    {
+      "stanza_number": 8,
+      "sanskrit_text": "सुरगुरुसुरवरपूजितलिङ्गं\nसुरवनपुष्पसदार्चितलिङ्गम्।\nपरात्परं परमात्मकलिङ्गं\nतत्प्रणमामि सदाशिवलिङ्गम्॥८॥",
+      "transliteration": "sura-guru-sura-vara-pūjita-liṅgaṁ\nsura-vana-puṣpa-sadārcita-liṅgam |\nparāt-paraṁ paramātmaka-liṅgaṁ\ntat-praṇamāmi sadāśiva-liṅgam ||8||",
+      "translations": {
+        "english": "I bow before that Sadashiva Lingam, worshipped by Brihaspati (the preceptor of gods) and the greatest among the gods, ever adored with blossoms from the celestial gardens, higher than the highest, and the very embodiment of the Supreme Self.",
+        "hindi": "देवगुरु बृहस्पति और प्रमुख देवताओं द्वारा पूजित, नंदनवन के दिव्य पुष्पों से सदा अर्चित, परात्पर (सर्वोच्च से भी परे) और साक्षात् परमात्मा स्वरूप उस सदाशिव लिंग को मैं प्रणाम करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "सुरगुरुसुरवरपूजितलिङ्गं",
+          "transliteration_line": "sura-guru-sura-vara-pūjita-liṅgaṁ",
+          "meaning_english": "Worshipped by Brihaspati (Guru of celestials) and the foremost gods",
+          "meaning_hindi": "देवगुरु बृहस्पति तथा श्रेष्ठ देवताओं द्वारा पूजित लिंग"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "सुरवनपुष्पसदार्चितलिङ्गम्।",
+          "transliteration_line": "sura-vana-puṣpa-sadārcita-liṅgam",
+          "meaning_english": "Eternally worshipped with fresh blossoms plucked from heavenly groves",
+          "meaning_hindi": "देववन (नंदनवन) के दिव्य पुष्पों से सदा पूजित लिंग"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "परात्परं परमात्मकलिङ्गं",
+          "transliteration_line": "parāt-paraṁ paramātmaka-liṅgaṁ",
+          "meaning_english": "Transcendental beyond the beyond, the embodiment of the Supreme Consciousness",
+          "meaning_hindi": "सर्वोच्च से भी परे, साक्षात् परमात्मा रूप लिंग"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "तत्प्रणमामि सदाशिवलिङ्गम्॥८॥",
+          "transliteration_line": "tat-praṇamāmi sadāśiva-liṅgam",
+          "meaning_english": "Unto that divine Sadashiva Lingam, I offer my prostrations",
+          "meaning_hindi": "उस सदाशिव लिंग को मैं बारंबार नमन करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 121,
+        "end": 136
+      }
+    },
+    {
+      "stanza_number": 9,
+      "sanskrit_text": "लिङ्गाष्टकमिदं पुण्यं\nयः पठेत् शिवसन्निधौ।\nशिवलोकमवाप्नोति\nशिवेन सह मोदते॥९॥",
+      "transliteration": "liṅgāṣṭakam-idaṁ puṇyaṁ\nyaḥ paṭhet śiva-sannidhau |\nśiva-lokam-avāpnoti\nśivena saha modate ||9||",
+      "translations": {
+        "english": "Whoever recites this holy octet in praise of the Lingam in the presence of Lord Shiva reaches the divine realm of Shiva (Shivaloka) and rejoices in eternal communion with Him.",
+        "hindi": "जो भी मनुष्य भगवान शिव के सान्निध्य में इस परम पावन लिङ्गाष्टकम् का पाठ करता है, वह शिवलोक को प्राप्त करता है और सदा भगवान शिव के साथ आनंदित होता है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "लिङ्गाष्टकमिदं पुण्यं",
+          "transliteration_line": "liṅgāṣṭakam-idaṁ puṇyaṁ",
+          "meaning_english": "This sacred and merit-bestowing octet on the Shiva Lingam",
+          "meaning_hindi": "यह पुण्यकारी और पावन लिङ्गाष्टक स्तोत्र"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "यः पठेत् शिवसन्निधौ।",
+          "transliteration_line": "yaḥ paṭhet śiva-sannidhau",
+          "meaning_english": "Whoever recites devoutly in the holy presence of Lord Shiva",
+          "meaning_hindi": "जो भी व्यक्ति भगवान शिव के सान्निध्य में पाठ करता है"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "शिवलोकमवाप्नोति",
+          "transliteration_line": "śiva-lokam-avāpnoti",
+          "meaning_english": "Attains the supreme abode of Shiva (Shivaloka)",
+          "meaning_hindi": "वह परम धाम शिवलोक को प्राप्त करता है"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवेन सह मोदते॥९॥",
+          "transliteration_line": "śivena saha modate",
+          "meaning_english": "And rejoices eternally in bliss together with Lord Shiva",
+          "meaning_hindi": "और सदा भगवान शिव के साथ परमानंद का अनुभव करता है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 136,
+        "end": 153
+      }
+    }
+  ],
+  "audio": {
+    "provider": "youtube",
+    "youtube_id": "gW-Cz2AIWOs",
+    "title": "Lingashtakam - लिङ्गाष्टकम् | with Sanskrit lyrics"
+  }
+}
