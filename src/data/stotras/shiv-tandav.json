@@ -44,7 +44,11 @@
           "meaning_english": "He performs the fierce Tandava; may Lord Shiva bless us with auspiciousness",
           "meaning_hindi": "जिन्होंने प्रचंड तांडव रचाया, वे भगवान शिव हमारा कल्याण करें"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 16,
+        "end": 38
+      }
     },
     {
       "stanza_number": 2,
@@ -83,7 +87,11 @@
           "meaning_english": "May my deep love ever remain devoted to Him who wears the crescent moon",
           "meaning_hindi": "बाल चन्द्रमा को मुकुट रूप में धारण करने वाले शिव में मेरी प्रीति सदा बनी रहे"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 38,
+        "end": 61
+      }
     },
     {
       "stanza_number": 3,
@@ -122,7 +130,11 @@
           "meaning_english": "May my mind take delight in that Supreme Reality clad in space",
           "meaning_hindi": "दिशाओं को वस्त्र रूप में धारण करने वाले उस परमतत्व में मेरा मन रमे"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 61,
+        "end": 80
+      }
     },
     {
       "stanza_number": 4,
@@ -143,7 +155,7 @@
         {
           "line_number": 2,
           "sanskrit_line": "-कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे।",
-          "transliteration_line": "-kadamba-kuṅkuma-drava-pralipta-dig-vadhū-mukhe",
+          "transliteration_line": "-kadamba-kuङ्kuma-drava-pralipta-dig-vadhū-mukhe",
           "meaning_english": "Anointing the faces of the directions with saffron paste",
           "meaning_hindi": "दिशा रूपी सुंदरियों के मुख पर मानो कुंकुम का लेप लगा हो"
         },
@@ -161,7 +173,11 @@
           "meaning_english": "May my mind sustain miraculous devotion in the protector of beings",
           "meaning_hindi": "समस्त प्राणियों के पालनकर्ता शिव में मेरा मन अद्भुत आनंद प्राप्त करे"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 80,
+        "end": 99
+      }
     },
     {
       "stanza_number": 5,
@@ -182,7 +198,7 @@
         {
           "line_number": 2,
           "sanskrit_line": "-प्रसूनधूलिधोरणीविधूसराङ्घ्रिपीठभूः।",
-          "transliteration_line": "-prasūna-dhūli-dhoraṇī-vidhūsarāङ्ghri-pīṭha-bhūḥ",
+          "transliteration_line": "-prasūna-dhūli-dhoraṇī-vidhūsarāṅghri-pīṭha-bhūḥ",
           "meaning_english": "Whose footstool is dusted by streams of flower pollen",
           "meaning_hindi": "पुष्पों के पराग की वर्षा से जिनकी चरण-पीठ धूसरित हो उठी है"
         },
@@ -200,7 +216,11 @@
           "meaning_english": "May the moon-crowned Lord grant us lasting prosperity",
           "meaning_hindi": "चंद्रमा को धारण करने वाले शिव हमें चिर समृद्धि दें"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 99,
+        "end": 117
+      }
     },
     {
       "stanza_number": 6,
@@ -239,7 +259,11 @@
           "meaning_english": "May that matted head of Kapalin lead to our prosperity",
           "meaning_hindi": "उन महाकपाली शिव की जटाएं हमें परम ऐश्वर्य प्रदान करें"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 117,
+        "end": 135
+      }
     },
     {
       "stanza_number": 7,
@@ -278,7 +302,11 @@
           "meaning_english": "The sole master artist—in that Three-Eyed Lord is my devotion",
           "meaning_hindi": "अद्वितीय शिल्पी उन त्रिलोचन शिव में मेरा अनुराग रहे"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 135,
+        "end": 153
+      }
     },
     {
       "stanza_number": 8,
@@ -317,7 +345,11 @@
           "meaning_english": "Beautiful with the moon, may the Upholder of the cosmos extend prosperity",
           "meaning_hindi": "चंद्रकला से मनोहर, संसार का भार उठाने वाले शिव हमें समृद्धि दें"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 153,
+        "end": 171
+      }
     },
     {
       "stanza_number": 9,
@@ -356,7 +388,11 @@
           "meaning_english": "Slayer of Gajasura, Andhaka, and Death; Him I adore",
           "meaning_hindi": "गजासुर, अंधकासुर तथा यमराज का संहार करने वाले शिव को मैं भजता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 171,
+        "end": 196
+      }
     },
     {
       "stanza_number": 10,
@@ -395,7 +431,11 @@
           "meaning_english": "Destroyer of Gajasura, Andhaka, and Death; Him I worship",
           "meaning_hindi": "गजासुर, अंधक और काल के भी काल शिव की मैं उपासना करता हूँ"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 196,
+        "end": 218
+      }
     },
     {
       "stanza_number": 11,
@@ -434,7 +474,11 @@
           "meaning_english": "Unfolding His fiery cosmic Tandava dance; victory to Shiva",
           "meaning_hindi": "प्रचंड तांडव नृत्य रचने वाले भगवान शिव की सदा जय हो"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 218,
+        "end": 236
+      }
     },
     {
       "stanza_number": 12,
@@ -473,7 +517,11 @@
           "meaning_english": "Maintaining supreme equanimity, when shall I worship Sadashiva?",
           "meaning_hindi": "समान समदर्शी दृष्टि रखकर मैं कब सदाशिव का भजन करूँगा"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 236,
+        "end": 259
+      }
     },
     {
       "stanza_number": 13,
@@ -512,7 +560,11 @@
           "meaning_english": "Chanting 'Shiva', when shall I become eternally joyful?",
           "meaning_hindi": "'शिव' मंत्र का निरंतर उच्चारण करते हुए मैं कब सुखी होऊंगा"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 259,
+        "end": 278
+      }
     },
     {
       "stanza_number": 14,
@@ -551,7 +603,11 @@
           "meaning_english": "Contemplation of Shankara dispels all delusion",
           "meaning_hindi": "क्योंकि कल्याणकारी शिव का चिंतन समस्त जीवों के मोह का निवारण करता है"
         }
-      ]
+      ],
+      "audio_timestamp": {
+        "start": 278,
+        "end": 296
+      }
     },
     {
       "stanza_number": 15,
@@ -592,5 +648,10 @@
         }
       ]
     }
-  ]
+  ],
+  "audio": {
+    "provider": "youtube",
+    "youtube_id": "RhqBuybv1b4",
+    "title": "Shiva Tandava Stotram"
+  }
 }
