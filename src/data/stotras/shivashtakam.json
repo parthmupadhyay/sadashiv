@@ -1,0 +1,403 @@
+{
+  "id": "shivashtakam",
+  "title_sanskrit": "श्रीशिवाष्टकम्",
+  "title_transliteration": "Shri Shivashtakam",
+  "title_english": "Eightfold Hymn of Praise to Shiva",
+  "author": "Adi Shankaracharya",
+  "description": "A revered octet composed by Adi Shankaracharya in praise of Lord Shiva, celebrating His cosmic form, auspiciousness, and supreme grace.",
+  "total_stanzas": 9,
+  "stanzas": [
+    {
+      "stanza_number": 1,
+      "sanskrit_text": "प्रभुं प्राणनाथं विभुं विश्वनाथं\nजगन्नाथनाथं सदानन्दभाजम्।\nभवद्भव्यभूतेश्वरं भूतनाथं\nशिवं शङ्करं शम्भुमीशानमीडे॥१॥",
+      "transliteration": "prabhuṁ prāṇa-nāthaṁ vibhuṁ viśva-nāthaṁ\njagan-nātha-nāthaṁ sadānanda-bhājam |\nbhavad-bhavya-bhūteśvaraṁ bhūta-nāthaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||1||",
+      "translations": {
+        "english": "I extol the Supreme Lord, the master of all vital breaths, all-pervasive Lord of the universe, the sovereign of world rulers, and the abode of eternal bliss. He is the master of all beings past and future, Lord of spirits; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "समस्त जगत के स्वामी, प्राणों के अधिपति, सर्वव्यापी, विश्वनाथ, जगन्नाथों के भी नाथ और नित्य आनंद के धाम; भूत, भविष्य और वर्तमान के स्वामियों के भी ईश्वर, समस्त प्राणियों के नाथ, कल्याणकारी भगवान शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "प्रभुं प्राणनाथं विभुं विश्वनाथं",
+          "transliteration_line": "prabhuṁ prāṇa-nāthaṁ vibhuṁ viśva-nāthaṁ",
+          "meaning_english": "The all-powerful Lord, master of life-breath, all-pervading ruler of the universe",
+          "meaning_hindi": "सर्वसमर्थ प्रभु, प्राणों के स्वामी, सर्वव्यापक और संपूर्ण विश्व के नाथ"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "जगन्नाथनाथं सदानन्दभाजम्।",
+          "transliteration_line": "jagan-nātha-nāthaṁ sadānanda-bhājam",
+          "meaning_english": "The sovereign master of earthly rulers, the eternal vessel of supreme bliss",
+          "meaning_hindi": "संसार के स्वामियों के भी स्वामी, सदा आनंद स्वरूप"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "भवद्भव्यभूतेश्वरं भूतनाथं",
+          "transliteration_line": "bhavad-bhavya-bhūteśvaraṁ bhūta-nāthaṁ",
+          "meaning_english": "Lord of the past, present, and future, protector of all creatures and spirits",
+          "meaning_hindi": "भूत, भविष्य और वर्तमान के प्राणियों के ईश्वर, भूतनाथ"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥१॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, the bestowal of peace Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "कल्याणकारी शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 10,
+        "end": 35
+      }
+    },
+    {
+      "stanza_number": 2,
+      "sanskrit_text": "गले रुण्डमालं तनौ सर्पजालं\nमहाकालकालं गणेशादिपालम्।\nजटाजूटगङ्गोत्तरङ्गैर्विशालं\nशिवं शङ्करं शम्भुमीशानमीडे॥२॥",
+      "transliteration": "gale ruṇḍa-mālaṁ tanau sarpa-jālaṁ\nmahākāla-kālaṁ gaṇeśādi-pālam |\njaṭā-jūṭa-gaṅgottaraṅgair-viśālaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||2||",
+      "translations": {
+        "english": "Wearing a garland of skulls around His neck, enveloped in coiling serpents, He is the Death of Time itself (Mahakala) and the guardian of Ganesha and the ganas. He is magnificent with surging waves of the holy Ganga trapped in His matted locks; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जिनके गले में मुंडों की माला और शरीर पर सर्पों के हार सुशोभित हैं; जो महाकाल के भी काल तथा गणेश आदि गणों के रक्षक हैं; जिनकी विशाल जटाओं में गंगा की प्रचंड लहरें विराजती हैं, उन शिव, शंकर, शम्भु और ईशान की मैं वंदना करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "गले रुण्डमालं तनौ सर्पजालं",
+          "transliteration_line": "gale ruṇḍa-mālaṁ tanau sarpa-jālaṁ",
+          "meaning_english": "A garland of skulls upon the neck, body draped in coiled serpents",
+          "meaning_hindi": "गले में मुंडमाला और शरीर पर सर्पों का जाल धारण करने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "महाकालकालं गणेशादिपालम्।",
+          "transliteration_line": "mahākāla-kālaṁ gaṇeśādi-pālam",
+          "meaning_english": "The conqueror of Time and Death, guardian of Ganesha and the attendants",
+          "meaning_hindi": "महाकाल के भी काल और श्रीगणेश आदि समस्त गणों के पालक"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "जटाजूटगङ्गोत्तरङ्गैर्विशालं",
+          "transliteration_line": "jaṭā-jūṭa-gaṅgottaraṅgair-viśālaṁ",
+          "meaning_english": "Magnificent with surging waves of the Ganga surging in matted hair",
+          "meaning_hindi": "जटाजूट में गंगा की ऊंची तरंगों से अत्यंत विशाल व भव्य दिखने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥२॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 35,
+        "end": 62
+      }
+    },
+    {
+      "stanza_number": 3,
+      "sanskrit_text": "मुदामाकरं मण्डनं मण्डयन्तं\nमहामण्डलं भस्मभूषाधरन्तम्।\nअनादिं ह्यपारं महामोहमारं\nशिवं शङ्करं शम्भुमीशानमीडे॥३॥",
+      "transliteration": "mudām-ākaraṁ maṇḍanaṁ maṇḍayantaṁ\nmahā-maṇḍalaṁ bhasma-bhūṣā-dharantam |\nanādiṁ hy-apāraṁ mahā-moha-māraṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||3||",
+      "translations": {
+        "english": "He is the fountainhead of all joy, who embellishes all ornaments by His mere presence, who sustains the vast cosmic sphere and is adorned with sacred holy ashes. He is beginningless, boundless, and the vanquisher of great worldly delusion; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जो समस्त प्रसन्नताओं के स्रोत हैं, आभूषणों को भी सुशोभित करने वाले, ब्रह्मांड रूपी महामंडल के स्वामी और भस्म का शृंगार धारण करने वाले हैं; जो अनादि, असीम और महान मोह-माया का नाश करने वाले हैं, उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "मुदामाकरं मण्डनं मण्डयन्तं",
+          "transliteration_line": "mudām-ākaraṁ maṇḍanaṁ maṇḍayantaṁ",
+          "meaning_english": "Mine of endless joy, adorning all ornaments with His own divine grace",
+          "meaning_hindi": "आनंद की खान तथा आभूषणों को भी सुशोभित करने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "महामण्डलं भस्मभूषाधरन्तम्।",
+          "transliteration_line": "mahā-maṇḍalaṁ bhasma-bhūṣā-dharantam",
+          "meaning_english": "Ruler of the great cosmos, wearing sacred ashes as ornament",
+          "meaning_hindi": "समस्त ब्रह्मांड के स्वामी और भस्म रूपी आभूषण धारण करने वाले"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "अनादिं ह्यपारं महामोहमारं",
+          "transliteration_line": "anādiṁ hy-apāraṁ mahā-moha-māraṁ",
+          "meaning_english": "Without beginning, limitless, the destroyer of deep illusion and delusion",
+          "meaning_hindi": "अनादि, अनंत और महामोह का विध्वंस करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥३॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 62,
+        "end": 88
+      }
+    },
+    {
+      "stanza_number": 4,
+      "sanskrit_text": "वटाधोनिवासं महाट्टाट्टहासं\nमहापापनाशं सदा सुप्रकाशम्।\nगिरीशं गणेशं सुरेशं महेशं\nशिवं शङ्करं शम्भुमीशानमीडे॥४॥",
+      "transliteration": "vaṭādho-nivāsaṁ mahāṭṭāṭṭa-hāsaṁ\nmahā-pāpa-nāśaṁ sadā suprakāśam |\ngirīśaṁ gaṇeśaṁ sureśaṁ maheśaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||4||",
+      "translations": {
+        "english": "Dwelling beneath the banyan tree as Dakshinamurti, laughing with resounding cosmic roar, destroyer of grave sins and eternally self-luminous. He is the Lord of mountains, Lord of the host of ganas, King of deities, and the Supreme Lord; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जो वटवृक्ष के नीचे निवास करते हैं, जिनका अट्टहास प्रचंड और गूंजने वाला है; जो महापापों का विनाशक और सदा स्वयं-प्रकाशमान हैं; जो कैलाशपति, गणों के स्वामी, देवताओं के ईश और महेश्वर हैं, उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "वटाधोनिवासं महाट्टाट्टहासं",
+          "transliteration_line": "vaṭādho-nivāsaṁ mahāṭṭāṭṭa-hāsaṁ",
+          "meaning_english": "Abiding beneath the sacred banyan tree, laughing with deep cosmic laughter",
+          "meaning_hindi": "वटवृक्ष के नीचे विराजने वाले, गंभीर अट्टहास करने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "महापापनाशं सदा सुप्रकाशम्।",
+          "transliteration_line": "mahā-pāpa-nāśaṁ sadā suprakāśam",
+          "meaning_english": "Destroyer of the greatest sins, ever self-resplendent and radiant",
+          "meaning_hindi": "घोर पापों का नाश करने वाले और सदा दिव्य प्रकाश से युक्त"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "गिरीशं गणेशं सुरेशं महेशं",
+          "transliteration_line": "girīśaṁ gaṇeśaṁ sureśaṁ maheśaṁ",
+          "meaning_english": "Lord of Kailash, commander of ganas, King of gods, and the Supreme Lord",
+          "meaning_hindi": "पर्वतों के राजा (गिरीश), गणों के स्वामी, देवों के ईश और महेश्वर"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥४॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 88,
+        "end": 115
+      }
+    },
+    {
+      "stanza_number": 5,
+      "sanskrit_text": "गिरीन्द्रात्मजासङ्गृहीतार्धदेहं\nगिरौ संस्थितं सर्वदा सन्नगेहम्।\nपरब्रह्म ब्रह्मादिभिर्वन्द्यमानं\nशिवं शङ्करं शम्भुमीशानमीडे॥५॥",
+      "transliteration": "girīndrātmajā-saṅgṛhītārdha-dehaṁ\ngirau saṁsthitaṁ sarvadā sannageham |\npara-brahma brahmādibhir-vandyamānaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||5||",
+      "translations": {
+        "english": "Sharing half of His divine form with Parvati (the daughter of the king of mountains), He ever resides on Mount Kailash, making the snowy peaks His eternal home. He is the Supreme Brahman revered by Brahma and the celestials; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जिन्होंने पर्वतराज-पुत्री पार्वती को अपने आधे अंग में स्थान दिया है (अर्धनारीश्वर), जो कैलाश पर्वत पर सदा प्रतिष्ठित रहते हैं; जो साक्षात् परब्रह्म हैं और ब्रह्मादि देव जिनकी वंदना करते हैं, उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "गिरीन्द्रात्मजासङ्गृहीतार्धदेहं",
+          "transliteration_line": "girīndrātmajā-saṅgṛhītārdha-dehaṁ",
+          "meaning_english": "Sharing half His body with Parvati, daughter of the King of Mountains",
+          "meaning_hindi": "पर्वतराज-पुत्री पार्वती द्वारा ग्रहण किए गए अर्धांग वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "गिरौ संस्थितं सर्वदा सन्नगेहम्।",
+          "transliteration_line": "girau saṁsthitaṁ sarvadā sannageham",
+          "meaning_english": "Seated on the sacred mountain, having the serene heights as His dwelling",
+          "meaning_hindi": "पर्वत पर स्थित और सदा हिमालय को ही अपना धाम बनाने वाले"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "परब्रह्म ब्रह्मादिभिर्वन्द्यमानं",
+          "transliteration_line": "para-brahma brahmādibhir-vandyamānaṁ",
+          "meaning_english": "The Supreme Absolute Reality, adored and worshipped by Brahma and other deities",
+          "meaning_hindi": "परब्रह्म स्वरूप तथा ब्रह्मा आदि देवताओं द्वारा वंदनीय"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥५॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 115,
+        "end": 142
+      }
+    },
+    {
+      "stanza_number": 6,
+      "sanskrit_text": "कपालं त्रिशूलं कराभ्यां दधानं\nपदाम्भोजनम Bartāy-kām-pradānam\nबलीवर्दयानं सुराणां प्रधानं\nशिवं शङ्करं शम्भुमीशानमीडे॥६॥",
+      "transliteration": "kapālaṁ triśūlaṁ karābhyāṁ dadhānaṁ\npadāmbhoja-namrāya kāma-pradānam |\nbalīvarda-yānaṁ surāṇāṁ pradhānaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||6||",
+      "translations": {
+        "english": "Bearing the skull-cup and the trident in His hands, bestowing every fulfilled wish upon those who bow to His lotus feet. Riding upon the sacred bull Nandi, He is the foremost among the gods; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जो अपने हाथों में कपाल और त्रिशूल धारण करते हैं, जो अपने चरण-कमलों में झुकने वाले भक्तों की समस्त मनोकामनाएं पूर्ण करते हैं; जिनका वाहन वृषभ (नंदी) है और जो देवताओं में अग्रगण्य व प्रधान हैं, उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "कपालं त्रिशूलं कराभ्यां दधानं",
+          "transliteration_line": "kapālaṁ triśūlaṁ karābhyāṁ dadhānaṁ",
+          "meaning_english": "Holding the kapala (skull cup) and trishula (trident) in His hands",
+          "meaning_hindi": "अपने दोनों हाथों में कपाल और त्रिशूल धारण करने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "पदाम्भोजनम Bartāy-kām-pradānam",
+          "transliteration_line": "padāmbhoja-namrāya kāma-pradānam",
+          "meaning_english": "Fulfilling the cherished aspirations of all who bow at His lotus feet",
+          "meaning_hindi": "अपने चरण-कमलों में नमन करने वाले भक्तों की कामना पूर्ण करने वाले"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "बलीवर्दयानं सुराणां प्रधानं",
+          "transliteration_line": "balīvarda-yānaṁ surāṇāṁ pradhānaṁ",
+          "meaning_english": "Having the bull as His divine mount, the foremost supreme leader among the gods",
+          "meaning_hindi": "बैल (नंदी) की सवारी करने वाले और समस्त देवताओं में प्रधान"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥६॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 142,
+        "end": 168
+      }
+    },
+    {
+      "stanza_number": 7,
+      "sanskrit_text": "शरच्चन्द्रगात्रं गणानन्दपात्रं\nत्रिनेत्रं पवित्रं धनेशस्य मित्रम्।\nअपर्णाकलत्रं सदा सच्चरित्रं\nशिवं शङ्करं शम्भुमीशानमीडे॥७॥",
+      "transliteration": "śarac-candra-gātraṁ gaṇānanda-pātraṁ\ntrinetraṁ pavitraṁ dhaneśasya mitram |\naparnā-kalatraṁ sadā sac-caritraṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||7||",
+      "translations": {
+        "english": "Whose fair complexion gleams like the autumn moon, who is the perennial fountain of bliss for His devotees and ganas, three-eyed, pure, and the beloved friend of Kubera (Lord of wealth). Consort of Aparna (Devi Parvati), forever of immaculate character; I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "जिनका शरीर शरद ऋतु के चंद्रमा के समान उज्ज्वल है, जो अपने गणों के आनंद के पात्र हैं; जो त्रिनेत्रधारी, परम पवित्र और कुबेर के परम सखा हैं; माता अपर्णा (पार्वती) जिनके अर्धांग में हैं और जिनका चरित्र सदा निष्कलंक व पावन है, उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "शरच्चन्द्रगात्रं गणानन्दपात्रं",
+          "transliteration_line": "śarac-candra-gātraṁ gaṇānanda-pātraṁ",
+          "meaning_english": "Fair-limbed like the luminous autumn moon, the receptacle of supreme joy for His ganas",
+          "meaning_hindi": "शरद पूर्णिमा के चंद्रमा जैसी आभा वाले शरीर वाले, गणों को आनंद देने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "त्रिनेत्रं पवित्रं धनेशस्य मित्रम्।",
+          "transliteration_line": "trinetraṁ pavitraṁ dhaneśasya mitram",
+          "meaning_english": "Endowed with three eyes, pristine pure, close comrade of Kubera (Dhanesha)",
+          "meaning_hindi": "तीन नेत्रों वाले, अत्यंत पवित्र और कुबेर के परम मित्र"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "अपर्णाकलत्रं सदा सच्चरित्रं",
+          "transliteration_line": "aparnā-kalatraṁ sadā sac-caritraṁ",
+          "meaning_english": "Having Aparna (Parvati) as consort, ever embodied in immaculate character",
+          "meaning_hindi": "देवी अपर्णा (पार्वती) के पति, सदा सत्य और पावन चरित्र वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥७॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 168,
+        "end": 194
+      }
+    },
+    {
+      "stanza_number": 8,
+      "sanskrit_text": "हरं सर्पहारं चिताभूविहारं\nभवं वेदसारं सदा निर्विकारम्।\nश्मशाने वसन्तं मनोजं दहन्तं\nशिवं शङ्करं शम्भुमीशानमीडे॥८॥",
+      "transliteration": "haraṁ sarpa-hāraṁ citā-bhū-vihāraṁ\nbhavaṁ veda-sāraṁ sadā nirvikāram |\nśmaśāne vasantaṁ manojaṁ dahantaṁ\nśivaṁ śaṅkaraṁ śambhum-īśānam-īḍe ||8||",
+      "translations": {
+        "english": "Hara, wearing snakes as garlands, roaming upon the cremation ground, the source of existence, the core essence of the Vedas, forever changeless and unblemished. Abiding in the burial grounds, vanquisher of Kamadeva (desire); I praise Shiva, Shankara, Shambhu, the supreme ruler Ishana.",
+        "hindi": "दुखों का हरण करने वाले हर, सर्पों का हार धारण करने वाले, श्मशान भूमि में रमने वाले; सृष्टि के मूल, वेदों के सार, सदा निर्विकार; श्मशान में निवास करने वाले और कामदेव को भस्म करने वाले उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "हरं सर्पहारं चिताभूविहारं",
+          "transliteration_line": "haraṁ sarpa-hāraṁ citā-bhū-vihāraṁ",
+          "meaning_english": "Hara the remover of grief, wearing snakes as garlands, wandering in cremation grounds",
+          "meaning_hindi": "कष्टों को हरने वाले, सर्प का हार पहनने वाले, चिताभूमि में विचरण करने वाले"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "भवं वेदसारं सदा निर्विकारम्।",
+          "transliteration_line": "bhavaṁ veda-sāraṁ sadā nirvikāram",
+          "meaning_english": "The origin of all, essence of Vedic wisdom, ever free from modification",
+          "meaning_hindi": "संसार के मूल उद्भव, वेदों के सार-तत्त्व, सदा विकार-रहित"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "श्मशाने वसन्तं मनोजं दहन्तं",
+          "transliteration_line": "śmaśāne vasantaṁ manojaṁ dahantaṁ",
+          "meaning_english": "Dwelling in solitary cremation grounds, consumer of Kamadeva (desire)",
+          "meaning_hindi": "श्मशान में निवास करने वाले और कामदेव को भस्म करने वाले"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "शिवं शङ्करं शम्भुमीशानमीडे॥८॥",
+          "transliteration_line": "śivaṁ śaṅkaraṁ śambhum-īśānam-īḍe",
+          "meaning_english": "I worship and praise Shiva, Shankara, Shambhu, and Ishana",
+          "meaning_hindi": "उन शिव, शंकर, शम्भु और ईशान की मैं स्तुति करता हूँ"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 194,
+        "end": 221
+      }
+    },
+    {
+      "stanza_number": 9,
+      "sanskrit_text": "स्वयं यः प्रभाते नरः शूलपाणेः\nपठेत् स्तोत्ररत्नं त्विह प्राप्य रत्नम्।\nसुपुत्रं सुधान्यं सुमित्रं कलत्रं\nविचित्रे समाराध्य मोक्षं प्रयाति॥९॥",
+      "transliteration": "svayaṁ yaḥ prabhāte naraḥ śūla-pāṇeḥ\npaṭhet stotra-ratnaṁ tv-iha prāpya ratnam |\nsu-putraṁ su-dhānyaṁ su-mitraṁ kalatraṁ\nvicitraiḥ samārādhya mokṣaṁ prayāti ||9||",
+      "translations": {
+        "english": "Whoever recites this jewel of a hymn dedicated to the Trident-bearing Lord every morning attains supreme treasures in this world—virtuous offspring, abundant prosperity, noble companions, and loving spouse—and through devotion attains final liberation (Moksha).",
+        "hindi": "जो मनुष्य प्रातःकाल स्वयं त्रिशूलधारी भगवान शिव के इस स्तोत्र-रत्न का पाठ करता है, वह इस लोक में उत्तम संतान, धन-धान्य, सच्चे मित्र और सौभाग्यवती पत्नी प्राप्त कर, अंत में भगवान शिव की कृपा से मोक्ष को प्राप्त होता है।"
+      },
+      "line_breakdown": [
+        {
+          "line_number": 1,
+          "sanskrit_line": "स्वयं यः प्रभाते नरः शूलपाणेः",
+          "transliteration_line": "svayaṁ yaḥ prabhāte naraḥ śūla-pāṇeḥ",
+          "meaning_english": "That person who themselves at dawn chants to the Trident-bearing Lord",
+          "meaning_hindi": "जो मनुष्य प्रातःकाल उठकर स्वयं त्रिशूलपाणि भगवान शिव के सम्मुख"
+        },
+        {
+          "line_number": 2,
+          "sanskrit_line": "पठेत् स्तोत्ररत्नं त्विह प्राप्य रत्नम्।",
+          "transliteration_line": "paṭhet stotra-ratnaṁ tv-iha prāpya ratnam",
+          "meaning_english": "Recites this invaluable jewel of a stotra, attaining precious treasures here",
+          "meaning_hindi": "इस स्तोत्र-रत्न का पाठ करता है, वह इस संसार में अमूल्य निधियों को पाकर"
+        },
+        {
+          "line_number": 3,
+          "sanskrit_line": "सुपुत्रं सुधान्यं सुमित्रं कलत्रं",
+          "transliteration_line": "su-putraṁ su-dhānyaṁ su-mitraṁ kalatraṁ",
+          "meaning_english": "Blessed with noble progeny, abundance of food grains, faithful friends, and spouse",
+          "meaning_hindi": "योग्य पुत्र, धन-धान्य, अच्छे मित्र और उत्तम जीवनसंगिनी प्राप्त करता है"
+        },
+        {
+          "line_number": 4,
+          "sanskrit_line": "विचित्रे समाराध्य मोक्षं प्रयाति॥९॥",
+          "transliteration_line": "vicitraiḥ samārādhya mokṣaṁ prayāti",
+          "meaning_english": "Worshipping the wondrous Divine, at last reaches the supreme state of liberation",
+          "meaning_hindi": "और इन विविध सुखों का भोग व प्रभु की आराधना करते हुए अंत में मोक्ष को प्राप्त होता है"
+        }
+      ],
+      "audio_timestamp": {
+        "start": 221,
+        "end": 251
+      }
+    }
+  ],
+  "audio": {
+    "provider": "youtube",
+    "youtube_id": "7MMhMRI11kU",
+    "title": "Sacred Shri Shivashtakam Chanting"
+  }
+}
